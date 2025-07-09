@@ -1,0 +1,1449 @@
+<roblox!‰я
+
+  Y   d          SSTR          P     
+ P     INST3   ~       р    	   Animation    4 gё ђINST          р
+      Animator       VINST           р      AssetService     ЊINST          р   
+   Atmosphere      ЄINST:   Ч       я   
+   Attachment 0  p
+.    9 
+ PINST          р
+      BloomEffect      ¬INST          р   
+   BodyColors      ЄINST*   (       р      BubbleChatConfiguration      VINST(   &       р      CSGDictionaryService     DINST          р	      Camera       INST+   )       р
+      ChannelTabsConfiguration      `INST          р      Chat     FINST,   *       р      ChatInputBarConfiguration      TINST*   (       р
+      ChatWindowConfiguration      RINST%   #       р      CollectionService     vINST(   &       р      ContextActionService     €INST"           р      CookiesService     ‚INST$   "       р      DataStoreService     ўINST          р	      Debris     ЂINST          р      Decal          :INST%   #       р      DepthOfFieldEffect      ®INST          ф      Folder   `  ,INST#   !       р      GamePassService     ~INST          р      HttpService      INST          р
+      Humanoid       HINST          р   
+   ImageLabel      ZINST!          р   
+   InsertService     zINST"   )       ш      Instance        ѕINST          р      Lighting     ¤INST'   %       р      LocalizationService     rINST"           р      LodDataService     °INST!          р   
+   LuaWebService     ђINST#   !       р       MaterialService     NINST'   M       я!      MeshPart   аX2(INST          р"      Model       INST#   !       р#      ModuleScript         0INST&   T       я$      Motor6D   A0T* p‚INST5   3       р$%   !   NonReplicatedCSGDictionaryService     BINST0   \       я&      NumberValue   +  J °n
+INST          р'      Pants      ¬INST   !       Б(      Part	  P
+INST&   $       р)      PermissionsService     bINST"           р*      PhysicsService     xINST)   '       р+      PlayerEmulatorService     dINST          р
+,      Players     HINST1   /       р -      ProcessInstancePhysicsService     ’INST*   (       р.      ProximityPromptService     ІINST#   !       р/      ReplicatedFirst     JINST%   #       р0      ReplicatedStorage     ”INST$   7       я1      Script 	   ђ€(~^INST!          р2   
+   ScriptService     ЉINST          р3   	   Selection     „INST&   %       р4      ServerScript Рice     –INST!          р5   
+   ServerStorage     њINST(   *       у
+6      ServiceVisibility       ћINST          р7      Shirt      ®INST          р8      Sky      ¦INST          р9      Snap       INST           р:      SoundService     >INST           р;   
+   SpawnLocation       
+INST          р
+<      SpecialMesh       4INST*   (       р=      StarterCharacterScripts      lINST          р
+>   
+   StarterGui     pINST          р?      StarterPack     nINST!          р@   
+   StarterPlayer     hINST'   %       рA      StarterPlayerScripts      jINST=   Ё       яB      StringValue $  [Q6:*  р
+ZINST          р
+C   
+   StudioData     fINST           рD   
+   SunRaysEffect      ЁINST          рE      Teams     ґINST#   !       рF      TeleportService     tINST          р	G      Terrain       INST          рH      TestService     ¶INST#   !       рI      TextChatService     PINST          р	J      Texture       INST           рK      TimerService     <INST%   #       рL      TouchInputService     ЋINST           рM      TweenService     LINST$   "       рN      UGCAvatarService     ёINST          р
+O      UICorner      \INST          рP   
+   UIGradient      XINST          рQ   	   UIPadding      ^INST          рR   	   VRService     †INSTG   5      яS      Vector3Value G  Д@      
+ ?
+   ђ
+
+
+‚INST'   %       рT      VideoCaptureService     @INST           рU      VideoService     єINST'   %       рV      VirtualInputManager     јINST          рW   	   Workspace       INST/   ‡       яX   
+   WrapTarget   CWЂ( АPROP  ¦      я2       AnimationId)   http://www.roblox.com/asset/?id=507770677- _65644- _71019- ?955- ?210‡ O6043Z O6720- /87б O7268Z O7451- /62б ?679‡ O6638ґ 6 ґ O6500h?081‡ O7045/71IO6813Z O8489Wџ481825862;2263876Z  ЮO6837W Z /554079878ґ Ђ07770239PROP*   „       р
+       AttributesSerialize  LP     PROP#   е       р       Capabilities!  ґP     PROP)   6       р
+       DefinesCapabilities 
+ P     PROP!   І      р    	   HistoryId  я…P     PROPЖ   g      с       Name	   CheerAnim
+ @limb
+ @
+    iation1 2 3 * 4Ђ   Fall‚ ` 	 ( @Jump(  ї TLaugh
+ PPoint
+ t   Run !Si  @SwimD   рIdle
+   ToolLunge0  1Non ! ASlasi  > @Walk-  `veAnimPROP)   ж       р    
+   SourceAssetId  џ PPROP   u       Р       Tags
+  LP     PROPv   ±      р       UniqueId  ` я "$')+.02579<>@BDFHJLNPR - @ Д g /Р V H Ґ a  њ PњњњњњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP          р
+      Name   AnimatorPROP          р      PreferLodEnabledPROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  _k-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP          р      Name   AssetServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  V-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      Color~ЏЏђ~ЏЏђ~ЏЏђPROP          р      Decay}©©Є}ББВ}ххцPROP          р      DefinesCapabilities PROP          р      Density}334PROP          р      Glare    PROP          р      Haze    PROP   "       ц   	   HistoryId  P     PROP          р      Name
+   AtmospherePROP          р      Offset}   PROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  —-@ДРVHҐaaњPROP(   Ь       я      AttributesSerialize  §P     PROPЂ  џ      р      CFrame   Ђ?­:2JUZ'­:І АоиоҐJUZ§нио% % \ Ѓ   `Ђ?ќ#eё @ќ#e8 6 * АВГq(Ђ‰*ВГqЁ А.ТO§Ђ‰Є.ТO' *  /  E  	   @21Ќ$#   @  Ђї * *  + 	 R gg~ Вg~}gggzzzz{{ U|}}|| 0 C   я 	 b„„ЅЅ55 sЉ::„„ЯЯ ,   	0 b­­cc slЙЙййЏЏ  + c  ю р"ьPP    ‘‘aaAAAаа  @@@бб!!AA  ~~}~~~~||~~~}{}  s}}~}~|z р  ..цђМLL55МММRnR b†pхоўС sЧ7Q.Сч рМ  И ¶¶ее   †6† bAѓr0Е
+ s€6и4yЊ@ рН  zzµЗ.кк««...П°П `gҐ‡”й рњб*№рo=*№рg"  ~ 3 Azz}~up{{{}~||  syyy{{vv с  .   jjjjТjjj™ r3ooЩЩ s777ўў р     јјјјЁ«јјј‡ ‚ћ0‘‘нн р±±±??88°°°??00  {„`ЃА   P р
+-кЁЁwwЁЁee  ЃЃЃaaЃЃЃ!!PROP"   •      я      Capabilities!  яhP     PROP(   L       я      DefinesCapabilities  P     PROP          я   	   HistoryId  яяйP     PROP®  ў      @    цName   RootRigAttachment   FaceCenter  VFront w   Hai) 
+ #  g INeckg Љ   Wais} + щ   LeftShoulderH Д ?igh  µ KBodyµ  }   FBackЛ  ъ  h WCollaС c   ь  Щ C  А 
+R n л n 9HipС n  G љ J  ж  э  
+з П YAnkle|  2 M7FooБ2 :Kne1 L И N    Ѓ™  C  
+  c   
+— I  , 3 ]  
+K ` YElbowL ·& 6 ,Wr6  ёFGriph 9
+$„  №  4 њ 4  Хµ PhmentPROP(   –      я   
+   SourceAssetId  я= PPROP   Н       @    oTags  §P     PROPЋ         я      UniqueId  L_ я&````INPRTVmoqsuwy{}†€ЉЊЋђ’љњ¤¦®°ёєВДМОЦШЪвдмоцшъ - @ Д ї /Р V H Ґ a Lњ PњњњњњPROP   @       я      Visible  P     PROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP          р      EnabledPROP   "       ц   	   HistoryId  P     PROP          р   	   Intensity   PROP          р      Name   BloomPROP          р      SizeѓЂ  PROP           р   
+   SourceAssetId       PROP          р      Tags    PROP          р   	   ThresholdЂ   PROP#   !       р      UniqueId  -@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP!          р   
+   HeadColor3}ЌЌЋ}}}~}‰‰ЉPROP   "       ц   	   HistoryId  P     PROP$   "       р   
+   LeftArmColor3}ЌЌЋ}}}~}‰‰ЉPROP$   "       р   
+   LeftLegColor3}ЌЌЋ}}}~}‰‰ЉPROP          р
+      Name   Body ColorsPROP%   #       р      RightArmColor3}ЌЌЋ}}}~}‰‰ЉPROP%   #       р      RightLegColor3}ЌЌЋ}}}~}‰‰ЉPROP           р   
+   SourceAssetId       PROP          р      Tags    PROP"           р      TorsoColor3}ЌЌЋ}}}~}‰‰ЉPROP#   !       р      UniqueId  `-@ДРVHҐaaњPROP*   (       р      AdorneeName   HumanoidRootPartPROP"           р      AttributesSerialize    PROP'   %       р      BackgroundColor3~ххц~ххц~ххцPROP)   '       р      BackgroundTransparencyљ™™™™™№?PROP          р      BubbleDuration‚а  PROP          р      BubblesSpacingЃЂ  PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP          @    ђEnabledPROP          р      Font   /PROPW   m       я4      FontFace *   rbxasset://fonts/families/BuilderSans.jsonф '1 ( °-Medium.otfPROP   "       ц   	   HistoryId  P     PROP-   +       р      LocalPlayerStudsOffset            PROP          р   
+   MaxBubblesЂЂ  PROP          р	      MaxDistance…ђ  PROP          р      MinimizeDistance„@  PROP*   (       р      Name   BubbleChatConfigurationPROP           р   
+   SourceAssetId       PROP          р      Tags    PROP          р      TailVisiblePROP!          р   
+   TextColor3|ЙЙК|ЩЩЪ|ййкPROP          р
+      TextSize       (PROP#   !       р      UniqueId  њ-@ДРVHҐaaњPROP"           р      VerticalStudsOffset    PROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP'   %       р      Name   CSGDictionaryServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP"   !       @    р
+UniqueId  %-@ДРVHҐaaњPROP"           р	      AttributesSerialize    PROPB   @       р1	      CFrame :Ч.?a†“>­Ф+ї   ЂБ=k?BчЙ>oю:?Ып‰ѕБ© ?‚ qѓj®ѓЂєPROP          р	   
+   CameraSubject   PROP          р	   
+   CameraType    PROP          р	      Capabilities!        PROP          р	      DefinesCapabilities PROP          р		      FieldOfView…  PROP          р
+	      FieldOfViewMode    PROP          р	      FocusЃО‹‚ч–tѓlѓ‚PROP          р	   
+   HeadLockedPROP          @	    аHeadScale   PROP   "       @	    ¶HistoryId  P     PROP          р	      Name   CameraPROP           р	   
+   SourceAssetId       PROP          р	      Tags    PROP#   !       р	      UniqueId  ‹-@ДРVHҐaaњPROP           р	      VRTiltAndRollEnabled PROP"           р
+      AttributesSerialize    PROP'   %       р
+      BackgroundColor3{‘‘’{±±І{ССТPROP)   '       р
+      BackgroundTransparency        PROP          р
+      Capabilities!        PROP          р
+      DefinesCapabilities PROP          р
+      Enabled PROPU   k       я4
+      FontFace *   rbxasset://fonts/families/BuilderSans.jsonј %1 ( ђ-Bold.otfPROP   "       ц
+   	   HistoryId  P     PROP,   *       р
+      HoverBackgroundColor3}ххц}ххц}ххцPROP+   )       р
+      Name   ChannelTabsConfigurationPROP,   *       р
+      SelectedTabTextColor3         PROP           р
+   
+   SourceAssetId       PROP          р
+      Tags    PROP           @
+    рTextColor3~__`~__`~__`PROP          р
+
+      TextSize       $PROP'   %       р
+      TextStrokeColor3            PROP)   '       р
+      TextStrokeTransparency      р?PROP#   !       р
+      UniqueId  Ў-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      BubbleChatEnabledPROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP          р	      IsAutoMigrated PROP          р
+      LoadDefaultChatPROP          р      Name   ChatPROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  *-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      AutocompleteEnabledPROP'   %       р      BackgroundColor3{‘‘’{±±І{ССТPROP)   '       р      BackgroundTransparencyљ™™™™™Й?PROP          @    рCapabilities!        PROP          р      DefinesCapabilities PROP          р      EnabledPROPW   m       я4      FontFace *   rbxasset://fonts/families/BuilderSans.jsonф '1 ( °-Medium.otfPROP   "       ц   	   HistoryId  P     PROP          р
+      KeyboardKeyCode   /PROP,   *       р      Name   ChatInputBarConfigurationPROP(   &       р      PlaceholderColor3~eef~eef~eefPROP           р   
+   SourceAssetId       PROP          р      Tags    PROP           р      TargetTextChannel   PROP!          р   
+   TextColor3         PROP          р
+      TextSize       $PROP&   %       р	      TextStrokeColor3 ђ         PROP)   '       р      TextStrokeTransparency      а?PROP#   !       р      UniqueId  ›-@ДРVHҐaaњPROP"           р
+      AttributesSerialize    PROP'   %       р
+      BackgroundColor3{‘‘’{±±І{ССТPROP)   '       р
+      BackgroundTransparency333333У?PROP          р
+      Capabilities!        PROP          р
+      DefinesCapabilities PROP          р
+      EnabledPROPW   m       я4
+      FontFace *   rbxasset://fonts/families/BuilderSans.jsonф '1 ( °-Medium.otfPROP          р	
+      HeightScale   PROP   "       ц
+   	   HistoryId  P     PROP"           р
+      HorizontalAlignment   PROP*   (       р
+      Name   ChatWindowConfigurationPROP          @
+    рSourceAssetId       PROP          р
+      Tags    PROP!          р
+   
+   TextColor3         PROP          р
+
+      TextSize       $PROP'   %       р
+      TextStrokeColor3            PROP)   '       р
+      TextStrokeTransparency      а?PROP#   !       р
+      UniqueId  љ-@ДРVHҐaaњPROP           р
+      VerticalAlignment   PROP          р
+   
+   WidthScale   PROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP$   "       р      Name   CollectionServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  G-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP'   %       р      Name   ContextActionServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  T-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP!          р      Name   CookiesServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  N-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р	      AutomaticRetryPROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP          р
+      LegacyNamingScheme PROP#   !       р      Name   DataStoreServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  ѓ-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP          р      MaxItems  РPROP          р      Name   DebrisPROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  M-@ДРVHҐaaњPROP%   $       @    р
+AttributesSerialize        PROP    %       ц      Capabilities!  P     PROP   '       с      Color3   P     PROP          @    рDefinesCapabilities  PROP          р      Face      PROP   2       я   	   HistoryId  P     PROP           р      Name   Decal   facePROP!   &       ц   
+   SourceAssetId  P   PROP          р      Tags        PROPK   S       т      Texture%   rbxasset://t чs/SpawnLocation.png) аid://258268895PROP          р      Transparency        PROP3   1       р"      UniqueId    _ђc--@@ДДРРVVHHҐҐaaaaњњPROP          р      ZIndex      PROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP          р      Enabled PROP          р
+      FarIntensity{™™љPROP          р   
+   FocusDistancez™™љPROP   "       ц   	   HistoryId  P     PROP          р   
+   InFocusRadiusѓа  PROP          р      Name   DepthOfFieldPROP          р   
+   NearIntensity~Ђ  PROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  ™-@ДРVHҐaaњPROP*   (       р      AttributesSerialize            PROP    -       ю      Capabilities!  P     PROP!          р      DefinesCapabilities   PROP   B       я   	   HistoryId  P     PROP/   -       р      Name   WebAI   OpenAI	   DeepInfraPROP!   .       ю   
+   SourceAssetId  P  PROP          р
+      Tags            PROPB   A       с      UniqueId  рccc™K[---@@@ДДДРРРVVVHHHҐҐҐaaaaaaњњњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP"           р      Name   GamePassServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  L-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP          р      HttpEnabledPROP          р
+      Name   HttpServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  Ђ-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р
+      AutoJumpEnabledPROP          р   
+   AutoRotatePROP#   !       р      AutomaticScalingEnabledPROP          р
+      BreakJointsOnDeathPROP          р      Capabilities!        PROP          р   
+   CollisionType    PROP          р      DefinesCapabilities PROP"           р      DisplayDistanceType   PROP*   (       р      DisplayName   РњСѓСЃРѕСЂС‰РёРєPROP           р      EvaluateStateMachinePROP$   "       р      HealthDisplayDistance…ђ  PROP           р      HealthDisplayType   PROP          р   
+   Health_XML…ђ  PROP          р   	   HipHeightЂојPROP   "       ц   	   HistoryId  P     PROP(   &       р      InternalBodyScale   ММ   PROP           р      InternalHeadScale   PROP          р   
+   JumpHeightЃМММPROP          р   	   JumpPower„ђ  PROP          р   	   MaxHealth…ђ  PROP          р   
+   MaxSlopeAngle…d  PROP          р
+      Name   HumanoidPROP"           р      NameDisplayDistance…ђ  PROP          р   
+   NameOcclusion   PROP          р      RequiresNeckPROP          р      RigType   PROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  _d-@ДРVHҐaaњPROP          р      UseJumpPowerPROP          р   	   WalkSpeed‚@  PROP          р      Active PROP          р
+      AnchorPoint
+        PROP"           р      AttributesSerialize    PROP          р      AutoLocalizePROP          р   
+   AutomaticSize    PROP'   %       р      BackgroundColor3         PROP%   #       р      BackgroundTransparency    PROP#   !       р      BorderColor3{±±ґ|QQR|©©¬PROP          р   
+   BorderMode    PROP          р
+      BorderSizePixel   PROP          р      Capabilities!        PROP          р      ClipsDescendants PROP          р      DefinesCapabilities PROP          р   	   Draggable PROP   "       ц   	   HistoryId  P     PROP          р      Image    PROP"           р      ImageColor3         PROP"           р      ImageRectOffset
+        PROP           р   
+   ImageRectSize
+        PROP           р      ImageTransparency    PROP          р      InteractablePROP          р	      LayoutOrder    PROP          р      Name
+   ImageLabelPROP           р      NextSelectionDown   PROP           р      NextSelectionLeft   PROP!          р      NextSelectionRight   PROP          р
+      NextSelectionUp   PROP   !       ц      Position  P     PROP          р
+      ResampleMode    PROP$   "       р      RootLocalizationTable   PROP          р      Rotation    PROP          р   	   ScaleType    PROP          р   
+   Selectable PROP$   "       р      SelectionBehaviorDown    PROP$   "       р      SelectionBehaviorLeft    PROP%   #       р      SelectionBehaviorRight    PROP"           р      SelectionBehaviorUp    PROP          р	      SelectionGroup PROP#   !       р      SelectionImageObject   PROP          р      SelectionOrder    PROP          ж      Size  PИ   ИPROP          р      SizeConstraint    PROP   $       ц      SliceCenter  P     PROP          р   
+   SliceScale   PROP           р   
+   SourceAssetId       PROP          р      Tags    PROP"   !       р      TileSize    Ђ        PROP#   !       р      UniqueId  ћ-@ДРVHҐaaњPROP          р      VisiblePROP          р      ZIndex   PROP#   !       р      AllowClientInsertModels PROP!          р      AllowInsertFreeModels PROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP           р      Name
+   InsertServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  K-@ДРVHҐaaњPROP'   0       ъ      AttributesSerialize  P     PROP!   =       я      Capabilities!  P     PROP#   !       р      DefinesCapabilities     PROP   b       я   	   HistoryId  7P     PROP-   v       я      Name   FilteredSelection <PctionPROP#   >       р   
+   SourceAssetId  
+PPROP   !       к      Tags  P     PROPS   a       х      UniqueId  °XXXX”4567 } 
+ $ ј  ь ‹ 1 Ю  _____22222PROP          р
+      Ambient}}}PROPO   M       р>      AttributesSerialize-          RBX_OriginalTechnologyOnFileLoad   PROP          р   
+   BrightnessЂЂ  PROP          р      Capabilities!        PROP(   &       р      ColorShift_Bottom            PROP%   #       р      ColorShift_Top            PROP          р      DefinesCapabilities PROP&   $       р      EnvironmentDiffuseScale   PROP'   %       р      EnvironmentSpecularScale   PROP#   !       р      ExposureCompensation    PROP          р      FogColor~ЃЃ„~ЃЃ„~ЃЃ„PROP          р      FogEndЏ†  PROP          р      FogStart    PROP!          р      GeographicLatitude    PROP          р   
+   GlobalShadowsPROP   "       ц   	   HistoryId  P     PROP          р   
+   LightingStyle    PROP          р
+      Name   LightingPROP%   #       р      OutdoorAmbient}}}PROP          р      Outlines PROP%   #       р      PrioritizeLightingQualityPROP          р      ShadowSoftness|™™љPROP           р   
+   SourceAssetId       PROP          р      Tags    PROP          р   
+   Technology   PROP           р   	   TimeOfDay   14:30:00PROP#   !       р      UniqueId  „-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP&   $       р      Name   LocalizationServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  @-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       ц   	   HistoryId  P     PROP          р
+      Name   InstancePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  …-@ДРVHҐaaњPROP"           р      AttributesSerialize    PROP          р      Capabilities!        PROP          р      DefinesCapabilities PROP   "       р   	   HistoryId  P     PROP           р      Name
+   LuaWebServicePROP           р   
+   SourceAssetId       PROP          р      Tags    PROP#   !       р      UniqueId  c-@ДРVHҐaaњPROP!          р       AsphaltName   AsphaltPROP"           р       AttributesSerialize    PROP          р    
+   BasaltName   BasaltPROP          р    	   BrickName   BrickPROP          р       Capabilities!        PROP!   #       у    
+   CardboardName	 PboardPROP          р    
+   CarpetName   CarpetPROP$   )       ц       CeramicTilesName PTilesPROP%   +       ч       ClayRoofTilesName
+ PTilesPROP#   '       х
+       CobblestoneName PstonePROP#   !       р       ConcreteName   ConcretePROP%   +       ч       CorrodedMetalName
+ PMetalPROP#   '       х
+       CrackedLavaName PdLavaPROP          р       DefinesCapabilities PROP$   )       ц       DiamondPlateName PPlatePROP          р    
+   FabricName   FabricPROP          р
+       FoilName   FoilPROP!          р       GlacierName   GlacierPROP!          р       GraniteName   GranitePROP          р    	   GrassName   GrassPROP          р    
+   GroundName   GroundPROP   "       ц    	   HistoryId  P     PROP          р       IceName   IcePROP"   %       ф	       LeafyGrassName
+ PGrassPROP!          р       LeatherName   LeatherPROP!   #       у    
+   LimestoneName	 PstonePROP          р    
+   MarbleName   MarblePROP          р    	   MetalName   MetalPROP          р       MudName   MudPROP"           р       Name   MaterialServicePROP#   !       р       PavementName   PavementPROP          р    
+   PebbleName   PebblePROP!          р       PlasterName   PlasterPROP!          р       PlasticName   PlasticPROP          р
+       RockName   RockPROP$   )       ц       RoofShinglesName PnglesPROP          р    
+   RubberName   RubberPROP          р
+       SaltName   SaltPROP          р
+       SandName   SandPROP!   #       у    
+   SandstoneName	 PstonePROP          р    	   SlateName   SlatePROP%   +       ч       SmoothPlasticName
+ PasticPROP          р
+       SnowName   SnowPROP           р    
+   SourceAssetId       PROP          р       Tags    PROP#   !       р       UniqueId  2-@ДРVHҐaaњPROP          р       Use2022MaterialsXmlPROP          р
+       WoodName   WoodPROP"   %       ф	       WoodPlanksName
+ PlanksPROP!   M       я!      AeroMeshData  P     PROP          ф!      Anchored  P     PROP(   T       я!      AttributesSerialize  P     PROP#   &       ф
+!      AudioCanCollide PPROP'   K       щ!   
+   BackParamA~    PPROP#   K       щ!   
+   BackParamB~   P     PROP    L       я!      BackSurface  P     PROP%   Q       я!      BackSurfaceInput  P     PROP)   M       щ!      BottomParamA~    PPROP%   M       щ!      BottomParamB~   P     PROP"   N       я!   
+   BottomSurface  P     PROP(   S       р!      BottomSurfaceInput  P     PROPИ   Ѕ      ф!      CFrame  B Ђ?  B Ђї  % яЖ„  HGGHHGHHHI с9Зvрvр»e»eЉvЁ ѕЁ ѕ0ZH0ZHЂЂ}~}~Ђ с¦7p~°p~°ѕrѕr‘ѓ‘иѓ‘иО ©О ©„ћlМ$lМ":вД:аДyy}  р§§ґ­йвН*H[7VhддмЯ)иЬ%®Гgн¦ААCй#ЪЂєu§DњОPROP#   !       р!   
+   CanCollide            PROP          ф!      CanQuery PPROP          ф!      CanTouch PPROP"   …       р!      Capabilities  UP     PROP   !       ф!   
+   CastShadow PPROP-   ±       я!      CollisionGroup   Default wPfaultPROP%   Q       я!      CollisionGroupId  P     PROP'   >       щ!      Color3uint8c _ b PbbbbbPROP,   /       ф!      CustomPhysicalProperties  P     PROP'   *       ф!      DefinesCapabilities  P     PROP   "       ф!      DoubleSided  P     PROP%   (       ф!      EnableFluidForces PPROP*   V       я!      FluidFidelityInternal  P     PROP(   L       щ!      FrontParamA~    PPROP$   L       щ!      FrontParamB~   P     PROP!   M       я!      FrontSurface  P     PROP&   R       я!      FrontSurfaceInput  P     PROP"   %       ф	!      HasJointOffset PPROP"   %       ф	!      HasSkinnedMesh  P     PROP   т       я!   	   HistoryId  ЗP     PROP±   ј       ч!      InitialSize~ с"РІ¬{„¬{„#Ab#Abї;зсзсДэДэЬ†l\†l\Ђњt„ўt~~~ р~Е!A`A`ееоЭУэУэG8G8ЄђшЋ шЋЊPўЊP¤~: s рз>¤‰>¤‰ђ;}ђ;}7§„и„иЙµЙµ¤vфдvфдШрШрPROPѕ   ј       р!      JointOffsetggzz{zz{|| р  „Ѕ5„Ѕ5Љ„ЯЉ„Я  ­c­clйЏlйЏP  ‘aAA @@!A~}{} рY}}|}}|ђR†хў†хўЧ.СЧ.С†ArЕArЕ€4Њ€4ЊЗПg”gњ**"z{|zz|zzy{vy{vj™oЩoЩ7ў7ўј‡‘н‘н±?8°?0 PЁwЁe ЃaЃ!PROP'   K       щ!   
+   LeftParamA~    PPROP#   K       щ!   
+   LeftParamB~   P     PROP    L       я!      LeftSurface  P     PROP%   Q       я!      LeftSurfaceInput  P     PROP          ф!      Locked  P     PROP          ф!      Massless  P     PROP%   I       я!      Material    PPROP,   Z       с	!      MaterialVariantS
+ oized  P     PROP•   “      я.!      MeshId*   http://www.roblox.com/asset/?id=2506527924. /73. џ496177339. 4Љ \ /47\ 2. /30\ 3ё /15\ 1p/08\ 0ё /29\ P77294PROP‡   Я       р!      Name
+   UpperTorso 3Low д	   RightFoot
+
+   5Leg ? ЎLeg   Lef.  -  , 
+= 5Arm 2 5Arm} IHand? 4Arm - { PtHandPROP'   S       я
+!      PhysicalConfigData  P     PROP    L       я!      PhysicsData  P     PROP$   К       щ!      PivotOffset   ЏP     PROP    L       я!      Reflectance  P     PROP'   O       я	!      RenderFidelity   PPROP(   L       щ!      RightParamA~    PPROP$   L       щ!      RightParamB~   P     PROP!   M       я!      RightSurface  P     PROP&   R       я!      RightSurfaceInput  P     PROP!   M       я!      RootPriority  P     PROP    ј       я!      RotVelocity  ЏP     PROP&   †       я!   
+   SourceAssetId  N PPROP   E       п!      Tags  P     PROP   J       я!   	   TextureID  P     PROP&   J       щ!   	   TopParamA~    PPROP"   J       щ!   	   TopParamB~   P     PROP   K       я!   
+   TopSurface  P     PROP$   P       я
+!      TopSurfaceInput  P     PROP!   M       я!      Transparency  P     PROP_   с       я!      UniqueId  _ щ``l…™Ј­·БЛХблх - @ Д 	7 )Р V H Ґ a њ PњњњњњPROP9   Ѕ       щ!      UnscaledCofmя Ђ   	7 я7 Ђ7 8 !P     PROPD   И       щ!      UnscaledVolInertiaDiagsя Ђ   	7 я7 Ђ7 8 !P     PROPG   Л       щ!      UnscaledVolInertiaOffDiagsя Ђ   	7 я7 Ђ7 8 !P     PROP+   O       щ	!      UnscaledVolumeя Ђ   P     PROP   №       я!      Velocity  ЏP     PROP    L       я!      VertexCount  P     PROPЄ   µ       ч!      size~ с"РІ¬{„¬{„#Ab#Abї;зсзсДэДэЬ†l\†l\Ђњt„ўt~~~ р~Ь0Q!rQ!r&э(&э( [“ћЈ“ћЈK{+K{+юЦ*"`*"\  ~: s рз>¤‰>¤‰ђ;}ђ;}7§„и„иЙµЙµ¤vфдvфдШрШрPROP"           р"      AttributesSerialize    PROP          р"      Capabilities!        PROP          р"      DefinesCapabilities PROP   "       ц"   	   HistoryId  P     PROP          р"   
+   LevelOfDetail    PROP'   %       р"      ModelMeshCFrame            PROP          р"   
+   ModelMeshData    PROP$   "       р"   
+   ModelMeshSize            PROP!          р"      ModelStreamingMode    PROP          р	"      Name   TrasherPROP          р"      NeedsPivotMigration PROP          р	"      PrimaryPart   PROP          р	"      ScaleFactor   PROP           р"   
+   SourceAssetId   ОPROP          р"      Tags    PROP#   !       р"      UniqueId  _G-@ДРVHҐaaњPROP@   K       ф
+"      WorldPivotData  B Ђ?  B Ђї р  „H”:Ђ“3*y§е PROP¦   F      р#      AttributesSerialize•        рIPI_KEY   sk-proj-API-РєР»СЋС‡   newAPI*   https://api.openai.com/v1/chat/completions9 0old9 %9 4 Ќ™  Ґ ‘ ^PtionsPROP    %       ц#      Capabilities!  P     PROP           р#      DefinesCapabilities  PROP   2       я#   	   HistoryId  P     PROP          р#      LinkedSource        PROP*   (       р#      Name
+   OpenAIChat	   DeepInfraPROPg   g       т.#   
+   ScriptGuid&   {63F9F8A8-7634-4EA2-B9C0-A222953CA248}* р8C6AFE9-DDFB-488F-A915-5794B9948908}PROPB  <"      у #      Source  local httpService = game:Get 6("H 2")
+3 4cha! 3 sChat")
+- рAPI_KEY = script^ іAttribute(" рO") --Р’Р°С€ API РєР»СЋС‡ РѕС‚ OpenAI РІ Properties СЃРєСЂРёРїС‚Р° (РїР»Р°С‚РЅРѕ, Рё РЅСѓР¶РµРЅF ф„РёС†РёР°Р»СЊРЅС‹Р№ Р°РєРєР°СѓРЅС‚Я 0old– ?URLµ " ?new1 " С  )f = {}
+ Ј.__index =ц  % Ђ
+
+--РњРѕО рС‚Рµ РїРѕРёР·СѓС‡Р°С‚СЊ, РёР»Рё РґРѕСЂР°Р±; ‘ РЅРµРёСЃ8   ‘·РѕРІР°РЅ
+µ! °6 ЧєРё
+
+function‰ ‚.new()
+	@self#сetmetatable({
+		messageHistoryв р,
+		lastRequestTimnђos.time() r ђCount = 0 3max2 ђsPerMinut8 3 '},™ Ў)
+
+	return– O
+endБ ѓ:canMakeV М mcurren™ I
+	if -` .М Р>= 60 then
+		‚ .П  : =_ !
+	№  u E <{ z I 1+ 1p/¦true
+	else !fa  Њ   
+p:createћ`Comple*(ът, temperature, topPJ1notЕ 
+‡;• т)"Sorry, I'm too busy right now. Please try again later."ґ џpheadersЂа
+		["Authoriza« р"] = "Bearer " ..w ©T,
+	}
+вsroleTblC {  8 бsystem", conte°P'РўС‹•1µСЂ]aС‡РµР»hµ !є ґЄј—сРµРј "РњСѓСЃРѕСЂС‰РёРє" РІ Р РѕР±? `єСЃРµ,1ѕС‚'  »@С…РѕV #С‚, !Сѓ* QѕРІ. ‹  	 Р»3BР±С‰AСЃСЏс Ріa +3ІС‹N0єРё T ·#"С„ 1С‹,Й 1 С‚}ђѓ "Р“РґРµ І1 Р±ЂрєРё?", "Р§СѓСЋ-С‡ `, С‚С‹# 1ѕРіh q‹Р№! Р”.pёСЃСЊ!"Оe Е р ±РЅРѕРµ. РЈС‡Рё@  Ј !Р№Ў AСЃСЃPЏРЅРё 3ЂРёРіСЂРѕЯ! (KрёР·РєРѕ, СЃСЂРµРґ‚ Ќ7P°Р»Рµ" ) ЃІ Р·Р°РІ9 іѕi ёa  СЌu  РіAї€TґСѓРј— µЏTёРєСѓђ1ЅР°*  S t»СЏРµС€Ќє‡ ° PСѓ' }эoIusermh( ®B0BoduЩў:JSONEncodЎr["modelАgpt-4o-mini"w #["^ s   у2Tbl Ч  s or 1.2( Bop_p" 0opP `0.9
+	}§<р uccess, respons	gpcall(ё ё.PostAsync,Ё", P@_URLA S ц p, Enum.ґC™±Type.ApplicчRJson,а,!›• Ќф ("Error sendingg3 toЃ ;:E”tostring(Ч "))”ш  ODataҐ !DeҐ&  0  9 е["choices"][1]±C"]["‘""]»уonversate(player, у¦N
+(R:addM0#To2
+– ;>§ ( |:lf. [Ф ]v{`promptЅ Рџ	 R	  0 СЃҐ ’ѕРј: ["..L ђ.Name.."]  1°Рї0°Р»$Ѓ	D: ".€ ­ І§ 2— )зїѓ	 Ќ:trasher%aX@
+	--zЅ"--х
+©7ХїЪЋ 	!РґШі‹0-С‚Ў1ЂСЏAјѓ •DЖѓ  Т‰
+07 = џ Г"†b !
+	”t.insertќ	h,x
+N ы#; % T > 10M mremoveM 1иХУ№_ к
+
+6 Ь
+e…Њ:±# heЈis nil for‘+ЏЧ
+Z}
+/}
+¶¦DEEPINFRA_i")рs://api.deepinfra.com/v1/openai/«%/cЎ`s" -- ЪАРґР»СЏ DeepI8 ! (У№P
+0їРѕ[0µР№B	 
+pС‚СЏРј)ј	† % nлI 1ЦЯ bяя•ЛB
+ пcU	prin•)R oR rяfћХµ $ & 8№Б0µР·—P°РІС‹Њ?Рє!ЈЦўYPQwen/ р2.5-7B-Instruct",50ќРёе щ R‘Ћ  ј
+U,кGС‚Сѓях( Џ д1ёСЋЂ2025. Р›a С€O  єѕ0ЂСЊ30 СЃ  Р¶Ц АPЅС„Сѓ9° Lс
+Рµ рџђў
+		--"microsoft/phi-4ѕ с0.07$ 1M input, 0.14 т output (16 bit)B  	20.0; K 0K  ІР-llama/Meta-L k-3.1-8aA0.03H X !05 Ј  google/gemO R-4b-iЁA0.027 G Ї G џ d-TurboH1– _ o _ 3fp8F\ ц >2-3ц 1Ї 
+P 	™S 1S 
+J!06e Ґ U Х†!!1,Ћ†"75 astreamЈ'--
+ fґP
+BСЂР¶ 
+ A1‚СЂPёРЅРіЅЄј.  µjA (С‡9
+±"‚) J•1 »™ Х
+"СѓjДю ‚д
+µЎ  ѓ @СЂСѓ”  < )b8
+rikЁlJ%ifђ hI and .x #L +  1> 0  4[1]е
+U„
+. .Ч©љ†: Invaliu W fromП0API ц
+  zяяяяяPIChatPROP!   &       ц#   
+   SourceAssetId  P   PROP          р#      Tags        PROP3   1       р"#      UniqueId    ccL\--@@ДДРРVVHHҐҐaaaaњњPROP(   \       я$      AttributesSerialize  'P     PROPР   Ы       К$      C0 р7gg z{}z{~~}|}|z   Ѕ5яЅ5 я:„ :„•   cяc яЙй ЙйЂ   ьaAюа б! ~{}} 0~}~ р'МnоСRоСRL7L7R 6М0
+†0
+†¶6y¶6y!.°Н‡йП‡бПк№oк№gйz{ zz{ y р"{j™ oЩ™oЩ™j7ўj7ўј‡ н‡н‡ј±?ј°?ј P wPe P Ѓa Ѓ!ЃPROPР   Ы       Л$      C1 ° ggzz{zz{|| р    „Ѕ5„Ѕ5Љ„ЯЉ„Я р­c­clйЏlйЏ  P  ‘aAA @@!A }~}{} рh}}|}}| цђR†хў†хўЧ.СЧ.С И†ArЕArЕ€4Њ€4Њ µЗПg”gњ**"  z{|zz|zzy{vy{v  j™oЩoЩ7ў7ў  ј‡‘н‘н±?8°?0   PЁwЁe ЃaЃ! PROP!   •       я$      Capabilities!  gP     PROP'   ,       ц$      DefinesCapabilities  P     PROP!   U       я$      DesiredAngle  'P     PROP           ц$      Enabled PPROP         я$   	   HistoryId  зP     PROP    T       я$      MaxVelocity  'P     PROP—   Ц       С$      Name	 Аeck   Waist фRoot
+   RightAnkle	 TKnee
+ 0Hip 2Lef&    
+  %  DHip
+0 …Shoulder\ UElbow cWrist8 , a + 
+ *  8  LowerTorsoPROP)   N       я $      Part0  р  X2y¶Ox‹1Тй¤PROP'   N       я $      Part1  р>2(PROP&   –       я$   
+   SourceAssetId  \ PPROP   M       п$      Tags  'P     PROPb         я$      UniqueId  _ ы```X‚—Ў«µїЙУЯйуя	T - @ Д ? +Р V H Ґ a њ PњњњњњPROP"           р%      AttributesSerialize    PROP          р%      Capabilities!        PROP          р%      DefinesCapabilities PROP   "       ц%   	   HistoryId  P     PROP3   2       а%      Name!	 рonReplicatedCSGDictionaryServicePROP           р%   
+   SourceAssetId       PROP          р%      Tags    PROP#   !       р%      UniqueId  $-@ДРVHҐaaњPROP(   `       я&      AttributesSerialize  +P     PROP!   ќ       я&      Capabilities!  oP     PROP'   -       ч&      DefinesCapabilities  P     PROP   "      я&   	   HistoryId  чP     PROPo   з       у&      Name   BodyWidthScale aHeight % 3Dep% Ѓ	   Head 
+2 AType  ЎProportion Q   WV 
+ LPeightPROP&   ћ       я&   
+   SourceAssetId  c PPROP   Q       п&      Tags  +P     PROPd   !      я&      UniqueId  _ ` ьefghij!#%(*,/138: - @ Д C ,Р V H Ґ a њ PњњњњњPROPB   –       Р&      Value	 ±   р?   АММ    а( Q   $@  . "@      р?PROP"           р'      AttributesSerialize    PROP          р'      Capabilities!        PROP          р'      Color3         PROP          р'      DefinesCapabilities PROP   "       ц'   	   HistoryId  P     PROP          р'      Name   PantsPROP2   0       р!'   
+   PantsTemplate   rbxassetid://326409465PROP           р'   
+   SourceAssetId       PROP          р'      Tags    PROP#   !       р'      UniqueId  `-@ДРVHҐaaњPROP          р(      Anchored   PROP'   ,       ц(      AttributesSerialize  P     PROP          р
+(      AudioCanCollidePROP%   #       р(   
+   BackParamA~~~~        PROP%   #       р(   
+   BackParamB~~~~            PROP   $       ц(      BackSurface  P     PROP$   )       ц(      BackSurfaceInput  P     PROP'   %       р(      BottomParamA~~~~        PROP'   %       р(      BottomParamB~~~~            PROP!   &       ц(   
+   BottomSurface  P    PROP'   +       р(      BottomSurfaceInput  P     PROPj   Ї       ф(      CFrame  B Ђ?  B Ђї  % 
+2 J    р „„„ HHH ””, ::Ц‚ЂЃЂ “,‹ 39¦*T yyz §§S ее†   йPROP          р(   
+   CanCollide  PROP          р(      CanQuery PROP          р(      CanTouch PROP!   5       я(      Capabilities!  P     PROP          р(   
+   CastShadowPROP-   C       я(      CollisionGroup   Default 	PfaultPROP$   )       ц(      CollisionGroupId  P     PROP"           р(      Color3uint8[ЈcЈ[ў_ў[ҐbҐPROP'   %       р(      CustomPhysicalProperties    PROP"           р(      DefinesCapabilities    PROP           р(      EnableFluidForcesPROP&   $       р(      FrontParamA~~~~        PROP&   $       р(      FrontParamB~~~~            PROP    %       ц(      FrontSurface  P     PROP%   *       ц(      FrontSurfaceInput  P     PROP   R       я(   	   HistoryId  'P     PROP%   #       р(   
+   LeftParamA~~~~        PROP%   #       р(   
+   LeftParamB~~~~            PROP   $       ц(      LeftSurface  P     PROP$   )       ц(      LeftSurfaceInput  P     PROP          р(      Locked   PROP          р(      Massless    PROP   !       у(      Material  Ђ  PROP+   2       с	(      MaterialVariantS
+ fized  P     PROPC   A       р(      Name	   Baseplate   HumanoidRootPart* р Head   grabberPROP$   H       я
+(      PivotOffset  P     PROP   $       ц(      Reflectance  P     PROP&   $       р(      RightParamA~~~~        PROP&   $       р(      RightParamB~~~~            PROP    %       ц(      RightSurface  P     PROP%   *       ц(      RightSurfaceInput  P     PROP    %       ц(      RootPriority  P     PROP    D       я(      RotVelocity  P     PROP"   6       я(   
+   SourceAssetId  P PROP          ж(      Tags  P     PROP$   "       р(   	   TopParamA~~~~        PROP$   "       р(   	   TopParamB~~~~            PROP   #       ц(   
+   TopSurface  P    PROP#   (       ц
+(      TopSurfaceInput  P     PROP'   %       р(      Transparency              PROPP   Q       у(      UniqueId  р	__`ЊHMS----@@@@ДДДД р
+РРРРVVVVHHHHҐҐҐҐaaaaaaaaњњњњPROP   A       я(      Velocity  P     PROP!   &       ц(   
+   formFactorRaw  P  PROP          ц (      shape  P PROP9   =       у(      sizeЉЂЂ{   ™ ІАѓЂ   М рЉ~   f   f   hPROP"           р)      AttributesSerialize    PROP          р)      Capabilities!        PROP          р)      DefinesCapabilities PROP   "       ц)   	   HistoryId  P     PROP%   #       р)      Name   PermissionsServicePROP           р)   
+   SourceAssetId       PROP          р)      Tags    PROP#   !       р)      UniqueId  5-@ДРVHҐaaњPROP"           р*      AttributesSerialize    PROP          р*      Capabilities!        PROP          р*      DefinesCapabilities PROP   "       ц*   	   HistoryId  P     PROP!          р*      Name   PhysicsServicePROP           р*   
+   SourceAssetId       PROP          р*      Tags    PROP#   !       р*      UniqueId  H-@ДРVHҐaaњPROP"           р+      AttributesSerialize    PROP          р+      Capabilities!        PROP!          р+      CustomPoliciesEnabled PROP          р+      DefinesCapabilities PROP"           р+      EmulatedCountryCode    PROP!          р+      EmulatedGameLocale    PROP   "       ц+   	   HistoryId  P     PROP(   &       р+      Name   PlayerEmulatorServicePROP"           р+      PlayerEmulationEnabled PROP%   #       р+      PseudolocalizationEnabled PROP+   )       р+      SerializedEmulatedPolicyInfo    PROP           р+   
+   SourceAssetId       PROP          р+      Tags    PROP#   !       р+      TextElongationFactor    PROP#   !       р+      UniqueId  6-@ДРVHҐaaњPROP"           р,      AttributesSerialize    PROP          р	,      BanningEnabledPROP          р,      Capabilities!        PROP          р
+,      CharacterAutoLoadsPROP          р,      DefinesCapabilities PROP   "       ц,   	   HistoryId  P     PROP!          р,      MaxPlayersInternal   <PROP          р	,      Name   PlayersPROP'   %       р,      PreferredPlayersInternal   <PROP          р	,      RespawnTimeЂЂ  PROP           р,   
+   SourceAssetId       PROP          р,      Tags    PROP#   !       р,      UniqueId  ,-@ДРVHҐaaњPROP!          р,      UseStrafingAnimations PROP"           р-      AttributesSerialize    PROP          р-      Capabilities!        PROP          р-      DefinesCapabilities PROP   "       ц-   	   HistoryId  P     PROP0   .       р-      Name   ProcessInstancePhysicsServicePROP           р-   
+   SourceAssetId       PROP          р-      Tags    PROP#   !       р-      UniqueId  d-@ДРVHҐaaњPROP"           р.      AttributesSerialize    PROP          р.      Capabilities!        PROP          р.      DefinesCapabilities PROP          р.      EnabledPROP   "       ц.   	   HistoryId  P     PROP           р.      MaxPromptsVisible    PROP)   '       р.      Name   ProximityPromptServicePROP           р.   
+   SourceAssetId       PROP          р.      Tags    PROP#   !       р.      UniqueId  †-@ДРVHҐaaњPROP"           р/      AttributesSerialize    PROP          р/      Capabilities!        PROP          р/      DefinesCapabilities PROP   "       ц/   	   HistoryId  P     PROP"           р/      Name   ReplicatedFirstPROP           р/   
+   SourceAssetId       PROP          р/      Tags    PROP#   !       р/      UniqueId  /-@ДРVHҐaaњPROP"           р0      AttributesSerialize    PROP          р0      Capabilities!        PROP          р0      DefinesCapabilities PROP   "       ц0   	   HistoryId  P     PROP$   "       р0      Name   ReplicatedStoragePROP           р0   
+   SourceAssetId       PROP          р0      Tags    PROP#   !       р0      UniqueId  e-@ДРVHҐaaњPROP(   @       я1      AttributesSerialize  P     PROP!   ]       я1      Capabilities!  /P     PROP'   %       р1      DefinesCapabilities         PROP          р1      Disabled     PROP   ў       я1   	   HistoryId  wP     PROP!   9       я1      LinkedSource  P     PROPp   w       Р1      Name	 с
+Code   AIChase   Health Qnimat `Script 
+   рLICENSE   MLP_text   Emdeddings_Word2VecPROP   7       я1   
+   RunContext  P     PROP~  Ќ      с.1   
+   ScriptGuid&   {58967644-6F8A-4226-BD33-E4DA6C3E4887}* т8D9E7C1F-C33D-4988-AFD7-DC5F2422CB3D* т1AE8476C-DAD5-4404-9EE6-4C3229059E10* тFAC1D848-C418-4D71-98DF-B3768AEAA0DA* т8EA3A505-7EAB-45C2-9C86-2FF822E705B6* тAF4A02A1-CF5F-4074-9854-063A03B31ED9* у6F291E8B-A000-465B-AA0F-7D7162EE4B6T p01B7B5Aт
+D9-47A0-B6E3-69FF71C3BD82&р5ED453F9-F39E-42A6-AC71-5AFDA83D8BC1}PROPИќ  ”U     х=1      Sourceы   --Variables--
+local Brick = script.Parent
+--End--
+
+--Code. тfunction PlayerTouched(Part)
+	R C e = ParQ ’	if game.9 Rs:Get вFromCharacter(= ’) then
+		 с.Humanoid.Health = 0
+	end
+end
+
+Г .Њ ’:connect(^  яZ)  --[[ Р Р°РЅРґРѕРјРЅС‹Р№ СЃРєСЂРёРїС‚ РёР· С‚СѓР»Р±РѕРєСЃР° РЅР° РїРѕРіРѕРЅСЋ Р·Р° РёРіСЂРѕРєРѕРј
+
+__ _O
+
+=- _	м c  3___ 
+  
+& Q(   ) 
+ A .-.  
+P $.-+ 
+ 3| |Ў 
+ R( __)° Z . m C Б
+  /  _  \   
+ 2(  > 
+ A''") )% . 8 C в
+ . .' `. ;  |Х 
+ |w   	
+ $ И.  ;  ,-. ' C T
+ | '7 |  Љ
+
+  $ 
+ C ф
+ _\_`.(___) |  |/W Љ	
+ y K (| C 
+7 A. '., a ' _.'F  
+   K 2| |TC 
+ !`\ќ A  .'Ѕ2| ' :  P y  C с	
+ ; '._,' '  '  `-' /  '	 (; 
+ J <  . (| C q
+  '.__е I  `.
+ Щ 2   c   (| C Р $(Е  P )П L O    …drЩЈ
+--]]	
+	
+	1сSearchDistance = 100000 	-- How far a p у can be before it detects you
+Q ФaiDamage = 0	F bmuch d уthe ai inficts towards theg 
+
+--[[
+”eЬд OPTIONAL --]]ЖуcanWander = falseЮ #X,	 уZ = 30, 30
+-- 	How many stuУ!ai6wM !onит x and z axis in/ њ5
+
+
+–
+4get+
+т(model)
+	for _, v in pairs ф:GetChildren()) do
+		if v:IsA'F '‰
+±	return v
+	y
+ ~
+и -aiEayhuman =њ 3ai)7 Ґhroot = aiе
+tRootPar@ ‚zspeed =+ х.Velocity.magnitudeѓ Qpfs =fу	:GetService("Pathfinding '")4‰eNames(ЗВR '[:s')EЇname = nil~X rT pE шtostring(v.Name)”Bname
+	Х ¶sBodyParts(ў‚torso = — qґ‚figure = 
+	L * 
+Ы NFPartЪ · Т #
+	QRe	else
+# "€"чн xTorso(p‡
+5chaѕ›.WorkspacЄ Із іK Ц #aModel';v ~A і6 ==ЏdVoRcharRўv:FindFirsћЉ'Z(5 Q.Posi”!- , <®ж$		т F ‡_+ `LЎzambiepartЌV*ai\0(if.  .¬Вб3(p)х p‹Y;and& ~]2Namю 3 --X%
+	Ѓuenemy =:  Д4 ™ 	 $ R:TakeП(Ш$ г)ВГ-- no touchyCpath twaypoin1old s "isR1ing7
+if…йVspawnHљ)
+		while= 2= 0я	 5 1
+!Еdesgx, desgz‹yт.x + math.random(-љ х3X),ѕ3 z3 Z(6TуMoveTo( Vector3.new(‘ 0” !) 0 Xwait(Љ Q4, 6) 
+Ы 0Ќb
+	end)ЬB »њЬ ИjЊО !)	й+ ~язr -- if ч 
+<ed
+’ 31
+	@Їq checkwё cci = 3qci > #tf V
+				 oІ	if t[ci] =ђ ‰and ci <6 arepeatA B Bci +эRAc	untilP а 4 ќ1™B0) +/ ]ЩҐ жЈ $ %Ѓ
+		
+		paл1pfs›PathAsync~,y
+лAГ = path:GetW es()
+		S& =nkHBion;Џ …direct =ЋфFromNormalId(Enum. u.Front)Щ5ncf<’CFrame * 	 Ф[ E)
+		e –ncf.p.uni ±rootr = Ray6 
+< v ”phit, ppo	
+бFindPartOnRay(Z Є)ф !if;Пw<4 or› )„.if -D У8 1.Ac»1== ;DPath¤ U.Walk_ 
+O ’. U.Jump–Ї1d
+	bт	-- CANNOT LET BALDI JUMPS --  /[[У ?‘ ўҐ 1tru¤ 	Зaion = ц o.Chang )H 
+о I t M;€	ѓC&]]E"[[†ВбТbodypartnamesVю
+­
+УЭ Gif p>•and not p
+
+U 1hituBphit( ~( [ 
+:д(A [V) < 5‘©!ЄЌ	~
+* X! $1 €7if 6` C:Dis  G 
+r Afor d6, #B 5[i]x6 )	Y iJelseЌ6+$no// 0 ‰ћ 4пЈFinished:WП<х]  --Responsible for regeningЗ"'s‚qoid's h„ѕ	ґdeclaration—	F;
+Q=cHead =$ Ќ 1For†t("Head"Ho ;s$ lA 
+Гbdo
+if * 2and
+ Ф.ClassName=="V " =3 D;
+en ­ y2
+--eу x+ H!()	 1ing) = ¤
+”
+ђ .I & < 3Max Љ  ¶Fit(1нњ& =; 8 Ь 1~=0 g !±2newG цDelta = 0.01 * s *i ¤ C
+			\ =-+ +D E
+			Ю \ " =DBmin(? ," \ )ё
+!
+	j% G >“  †
+s > c 	©yп1 o ”Ю ‚)
+  Щ>  гт& =+ "# &хpose = "Standing"Ќу urrentAnim = ""3
+ %InА>nil  1Tra СKeyframeHandlТ ' S№41.0™ ?run^  Z џ зanimTable = {} V‘ = { 
+	id  !	{€1	{ Sс+"http://www.roblox.com/asset/?id=507766666", weight = 1 },;F ?951F 08388F я9 }
+			},
+	walk = 	{ д J7782д B0 } Z a 
+	runZ ц H7714° 
+X !swЉY  _84897Y у¶ _85072] j9Y  _65000Y Ofallh%)96
+hЏclimb = O6564Б	/it± $O8133
+Ў	
+	toolnonУґ O8375\ [ _slasho226355С\ 1lunµl2263876Ф_
+	wav#_70239=0777045Г3
+	dG}0777101° ,ЌёM7195H !?210и 2A#=604AЎ !=672VH "/87)С3й #.72ћТ!+74DH %-62yЏ Џ},
+	laug /81†Q
+	che	 ?067}s
+3Exiє	ф3in this list signifies that it is an emote, the value indicates if' ‚ looping. Y	: Z	–tfalse, M 3С 2 3 v; - 7}
+
+ѕЗseed(tick())п2convAAnim|сSet(name, fileList)(2
+T[name·)6ionb: .$ s	XdXи
+ G №
+ A.cou›01 t.totalW‘
+.0	" љ _ єµallowCustom*s‡$ ЖAllowDisable+ ‡sUserFlaы»ъsuccess, msg = pcall`R тUserSettings():In яeatureEnabled("UserK "2"D")
+е' Д о€
+В 6
+WЃStarterPй"1").‡ D™#s ~dif not} Ђ	m Cv2	--XC forСsЛ ^3H г [! ~С
+9Мtable.insertSJAfig.Q?Add¬cchild)j Е>)‚ &_Remov„ 6?3idx=†hildPart<ЉћєB	if ҐPart:IsA("ќ%")sу ‚ !Џpropertyx	«R[idx]g ".avж Ч>Z2ObjC# ­"т"Jif (: 
+ § .4 Їг. 
+7 Ґ C.Val‘Ќk ЅХI 
+Ш 	+ „Э ’ ”4idxn «  >тfallback to defaults@_ С E<= 0ЏЃfor idx,‹ йnЭJ © - ,ЋI.new
+qV 9 Ф= $) 
+c#Idn!.i• )  ‰  )P f Њb С 	щй’--			prinлс  .. " [" .. idx !]  Я  & ( Й  )Z!%Ѓ-- Setupдѕ! o©sи%2Я‚ModifiedО6&>@
+[и®]s& j:? 	б	Bend	» — . 
+w  ± ")
+ / $ 1 
+†
+b
+и o) do 
+Е 
+> !)
+ѕ С
+-- ANIMATIONѓR RtoolATT"NoneО 1Tim<+dAjumpe | "Duѕt = 0.316 ‚toolTranL%T #.1?fal 2µ Bfunc+QtopAl№ M%s($3oldР ‘д)1to ХAif f»ЋОCџ[P ЯЭ =f)Ђ	9 ѓ = "idle]''
+	— ? ¬/'ТYВв* E”/3 –S   Q:StopаИ  Destroy Р y Б-- clean up pт if there is oneш ¶Ў & р  С(0 і Њ
+ й 	 е  б $	
+}#IЙQ getHu
+bScale(9Ђ?XGbody, |
+ЦB+ …-ifB <and *
+aNumber“"ЕЙ F єжф 1о А с smallButNotZeroG0001ЛQetRunО(Ќ, t < 0.33
+rbAdjustП	Q(1.0)n—
+# Ћ )@n $66n Б Ш2= (ћ ! -“ 2) / — $ -ц.+ ѓ ° } 6 C"m 21.0ы$
+	ц
+Ґ2d = u * 1.25ґhЙ- =Ъ1	
+	ч2ђп_ /J )&«Й9 a	^џ	< d~*% ^ с ¤ == "walk"; 	ШЁ'; Ю  S­ L"X!J1keyл&БReachedFunc(=П.6if  † == "EndЮЕ ›U.Time-§Л ' Їйorepeat§ &С Ёї (‹V ­" 
+°¬)— µдZї aљ ;…
+			playv(u u, 0.15,ЋЃў_ 	ђ ЩC'roю%
+	Drollу 7,1`
+K1 	+$) шRorigRC Droll 1S"(f >УW G
+їТ- P / -4 
+
+xiБ	2idxd
+rЮ 9, tt
+,i$%) дХ Pv$ [c к ad
+aswitchа љ
+	wB 
+k&!)4W“	з	>”	
+м \J) ѕQEз	
+џj B f Љ :с1.0
+	
+		-- load it t*3¦e; get JГ p Г)qoid:Loaя|)2  Ј.Priority +d  ’.Core
+		 Ў Aplayзa\ V  _:Play‡ ь DJNameA ! 
+w ѓset up k#Њћ triggers.8+ d0 
+щ™.S Њ:;(¤  -wцto see if we need to blend a walk/runTъ ѓ| »	xN16V"run"м/ArunIn
+ъ4 ,)
+юiZA "][e ‘ 1l…
+ѓf<°#г‘I%9
+Ћ ( |. 9 = Х M 	ЩТ- G
+[ G-п6t"б щ+Ґ 
+п&T¤\С+ н
+_toolK
++Dplayo DЎ N90.0А“
+† C Єђ3, p’1)	 Нќђ	9…q 
+ћE	if П p~“…F* ґ
+=	 - *		G = 0aш ж$a
+
+5	ifnх 
+E  ™©  Ѕ1v5
+
+J ®& ћІ Ј ЏLЈ	—”*q
+e
+Dstopq ny Ьz
+­ S. –ў kE"""<&=2nilђ Ј Т	 Р
+ О	 Ф,Ё	ю~I\ Kч STATE CHANGE HANDLERS~’onRunning#]E> 0.Р2Фs,!16A
+»EY, 0.2h' Џ/P D)
+		±-Ќ "%"if|#0тK9єЌ  k .P њ›
+•onDied()
+5 RDead"п& qJumping) 	@a"jump"<	sN ‚p Z s XClimb·
+Ў=5.0Њ +Ќ  џћu Џ G·"U_/  0 ѓFreeFallA(	bdofall",v 	`r‡ l †  ‘allingDow+71  4 JSeat * „Platformiи > 
+K F	
+XSwimmљ¤d> 1.00ё
+±/10RAswimІ4ЯRЏ SR)/h Г	
+&XEeTooП`а
+›¤	c
+ї"toolnone",m щ ,р"IdEcюw2
+€ VSlashA‰ ."Ё=Чy oAction{ OLung8.{ *
+™4getь
+3)
+	ЁBbc in iџBOtool“$Rif c.џ!= ҐQanim"F4c.c?7 SЊEЃбЂc+ 2nilGRlastTpR0N1steІ4ate[!7 ’amplitudeЬ ‘frequency #  jQdelta`ъ -} D
+  	 
+% 3D1Fudа/0r BSgles IA
+
+  і	Ш3> 0I  		 ” ® 1
+  љС‘ХЏ	L ?0љ:n гѕ <x¶("sit", 0.54	O жP I	
+H ЋE or © €
+ Т	 Щ 	 
+њ§ » 	…j0.1
+		‚( DtrueЈv-- Tool'” handlingZftool =$8:!OfЖ:„("Tool")6 crequirl1CheП?notb+ІToolR15Fix"‰ oand ((^  1and»".Rz s{ A) or · "("  Ш(»?KOg$/ =К  0 #Vc
+`¤Y .°ч
+message recieved, delete 7 L& J APareЄ-±
+a
+k# ѓime + .3Е  >/iGO  zdcU 	’"		:А(H$^ ЙЫ w Ё‹ H3-- 9„ events
+B7.DiVW) w•
+$ 
+$  $  %  & $'  ( 8
+Q  ) ^S t, q'  " ,  6 з	.  )љsГ'sЅ chat hook
+Ѕ.¶.’s").Local X.Chat· ь
+E(msgv\ ЛQif (sЙс .sub(msg, 1, 3)Ѕ6/e €	7 / 4г!K 7K ?motO "8)ЄФ2Ы
+IЌ aNames[ Ћ
+=$ Я1)
+
+{¤initializeА&
+G ­1B¤ Ј N rloop to+Чe timed state3sО µнКIM4L6«+‡3_, jCGameкїwait(0.1)
+	—	 ) Ж!с3В  -- РћР±СЏР·Р°С‚РµР»СЊРЅРѕ РґРѕР»Р¶РЅС‹ Р±С‹С‚СЊ СЂР°Р·СЂРµС€Рµ т
+HTTP Р·Р°РїСЂРѕСЃС‹ РІ GameSДсs (Security) РґР»СЏ РІ3 с ёРјРѕРґРµР№СЃС‚РІРёСЏ СЃ РР С‡РµСЂРµР· РёРЅС‚ dЅРµС‚.”
+вOpenAIChat = rЩ*:&["$ с"]); --РЎРІСЏР·СЊl ‘ѕСЃРЅРѕРІR\"ј • D\9µРјЭ RРѕРІ
+Ђ &= ] ґ.new()
+
+ChaїQz2dChat")А Ґу CreateChatBubble(iд?,ц7)
+	[ ^:Chat% a, EnumўColor.Whitс
+[Qtask.)7ф*с--РљР°Р¶РґС‹Рµ 7 СЃРµРєСѓРЅРґ РіРµРЅzсёСЂСѓРµС‚ СЂРµРїР»РёРєСѓ Рё РІС‹РІНсёС‚ Сѓ РјСѓСЃРѕСЂС‰РёРєР°
+	responsЮэhat:trasher()
+
+	wцP".T' t.Head, E Х /ЁЖ±џDeepInfraЕ# Д@\ Г™bPlayerП-CЊLj6‘plr)
+	plrЁt# ґщ	warn(chat:conversate(plr, msg)) --Р’y!РѕGµ I‘РІ РєРѕРЅБс»СЊ (output). РњРѕР¶РµС‚Рµ Р°РґР°РїС‚РёСЂс °С‚СЊ РїРѕРґ РґaіРёРµ с2ёРј qРЅРёСЏ
+ХH
+86(вБ --РќРµ РёСЃs R»СЊР·uaСЃСЏ, ќЗ Ў·РґР°СЃС‚ , сёС‡-Р±Р°Р±Р» СЃ Ос
+єСЃС‚РѕРј РЅР°Рґ РєР°РєРёРј-ѕЎ±Рѕ РѕР±СЉу, 1(РіэѕС№u O°Рї.Ѓ-#U‰Жa  яGNU GENERAL PUBLIC LICENSEv\сVersion 3, 29 June 2007
+
+ Copyright (C) с, Free Software Foundation, Inc. <https://fsf.org/>
+ Everyon3-сpermitted to copyєфdistribute verbatim copies
+ ofЯ;у
+cense document, but changingГ;Яnot allowed.
+р  т Preamble
+
+  The7УHЈl Public Lr Ўis a free,І EleftЋ Tfor
+sсand other kinds of {‹ 4The6 sѕ8_most <  ’practical= с are designed
+to take away your™ ”dom to sh† йTE я.  By contrast,
+tт bintendЁњguaranteer 
+r Rall vP тa program--to make su]qremainsБ Dсfor all its users.  We,Ѕ|!usн 
+Жseof ourzу	; it applies also to
+anyКТwork releasedЉaway byў Qautho¤ 1You°[Rapply"&
+  sо
+сWhen we speak ofђ A, weфБreferring to# яdom, not
+price.  OurґsB 6 {?qyou
+hav6] 7ЉЃ
+  ! (";AhargUт
+them if you wish),|?Сyou receive s}gЃ code or)1getµ9 ‡
+want it; 8canЗ)Іor use piecћ дit in new
+freep!s,Zн Q knowЈ Ўcan do the4Aings–‘To protecє !r шsЋи%!prйтs from denying you
+T 9 s or ask Q to sdдN_ .qrefore,џ Дhave
+certainЎ	“ibilities.¦&ю, or if
+you modify it:P !to 1ectaf3 ofд ПFor example,‚ 
+Fsuchтс, whether
+gratis orшCa feн Дmust pass onS)Ўrecipients“ AsameЩMdomsYdzI ^цAtheyu,‡
+{.–a.  And‚L Qshow ЪХqterms s8!y
+MDthei'(“DeveloperЁ • •/PL_с with two steps:
+(1) assertlL	ЭљЃ2) offerµ Dthis±D
+givxRlegalvsеw,DAand/)О "Fo©dЦ 'Rу'П Aion,џ фGPL clearly explains
+Љ15±no warranty¶ ¶Я.y Bbothяu 
+u 3sak
+4GPL§pА 6iedЃТbe marked as
+M"d,Жai Ўblems willћ@Sbe atђСd erroneouslyтЕ of previousp 81Som5/ic† BdenyШ a acces‚ю install or run
+З 	$a insid»Ўm, althoug¬Pг manufacturer
+куso.  This is fundamentally incompatible‹Јhe aim of
+Ї2ingІ '(M/ »цThe systematic
+patternСbuse occurs i›TR areaMRoduct	тindividuals to
+use, which is precisely wXBt isN	runaccep©AЏ ["weп%hi№d
+StAhibi!Ћ	e°Dose
+« C.  IЪ Eу arise substantifN1 doтЋ уstand ready to exten`Tprovi­s : ‘ in futur(csions
+ВGPL, as needтА¤ЩU	ф
+
+  Finally, every©a is thCqned conЛ lфмс patents.
+States should?Tallow! bTtrictK2men‘W%f
+U q8‘neral-pur’computersп5o№Qat doџAwish›v•8С special dangp%at‘ л	ЂaТщ acould
+FСit effectivel“prietary.*
+FthisюDassuЋ
+"Б cannot be uB
+'o tЃnon-freeBTwеxr	‚ondition#wcopyingИsion and@!caQ[afollowW  тTERMS AND CONDITIONS
+
+  0. Definr @ "D
+"џ
+Ар% 3H/NU
+I W"qtmeans cm“-like lawШS#toF\
+
+\
+,vтs semiconductor maskзb"The P†· 6anyt a4ork¤
+3d u¬	3is
+х t.  Each# addresscЈ "you".  "1 –es" and
+"Хr" may bЃJдЎor organiz¶ё ATo "By" aњ )ГЂ
+qor adapwq or parг1the4 У
+in a fashion16ingъ ,b2thaќ!maБ
+ўof an
+exac–P±e resultingi Г is called a№ Њ"‚
+earlier3 $orЪ Ў"based on"°& 4ЎA "covered: "AeithбAe un-4iedнѓ/  ^ "
+oЦ eћpropagatehd'& 1at, Fout
+[	1, wAByou И_сly or secondarily linБfor
+infringeq c" у law, except executфTon a
+% Е	1ing‰BivatH C.  Pи Іion includevUing,
+„Qion (
+$orз E!ic= $),Qavail« 5!
+p:у, and in some countries^RactivПuas wellЉ\conveп1anyP&«iЛAat e)K[ A
+parX р$orыOA.  MЅ?1nteg!onг Q a usI…rough
+a TrnetworkтЁeБransfer of aH,{А 1ingТ &Anh vяr тface displays "Ap`Qate L°’Notices"
+Wtю&itЅar $niRqpromineЇ!viЛ\A
+fea206(1)z Ї| onЂ З‚(2)
+tellЏ
+&a	Хz# (±Е 
+гЕ srTvided;^!es-д Х6у™тЄ іhow to view™=ђІ	э€ApresnQa lis<е QcommaЖ‡r optionlqa
+menu,drT itemЦ
+J 1meeЕБis criterionB1. S{6Codф"ђ"p
+
+чh­ Іferred formЯ n
+а°	­
+Ўit.  "ObjeВ$de@‚any non-z 
+U x ¬ A‘Tard I5? С‘uQ‚officialн
+ф
+ard defined by a recognized ! sсAT, or,K…case of
+ІsЯ	"fi1 a чAculaО
+тgramming language, onџ ‘
+is widel…
+td among—
+1ers-ZnmC aThe "SЯЎ LibrariesЩ#an–3a?,ю
+\& Іas a whole,q d(a) isвE¤the normalхa
+packaчеa Major Compon-
+c"at/ 
+/ сand (b) serves onиYЈ|± ]that
+x ўor to implП!a m 	9Цќ 5an
+, С-isQ QL2Acodek.  A
+"† "7іis context,*1a m)Aesse™
+$ c3у
+(kernel, windowГdso on)jY‘fic opera…рт
+(if any) on whicђAruns*a1ileОCd toWЧ€( 6n o·nFpret8 v run itў2CorЩCdingi	OiT хO	1alllQgk4te,І"(і§)™ 9theБ !anz
+ўУл /3ingЃ}Qs to
+°‡ol those8т.  However, it doeйE B<'s
+ЇUЙ eWtools 'ly‰1freуSgramsЫ#arО
+u
+‘in perfor|і R but
+;are—\ыjИ
+г s
+IЁ
+чUВs associatedЇОAfile<гФЏ[	]J4d lжу and dynamically
+linked subГ¬
+Н % i§1 Вtquire,
+»
+с by intimate dat3munp
+ лSВflow between
+„ 2andhхs·О?TheXг4notzё—5Q"re>qte autoй2ю	| 	o 
+ш­	 ¬$‚ш gat
+samЪ Ґ2. Basic P‘GAAll Gys grantЪA	E are fъ†term of
+
+vA
+?ўare irrevoµМ	Xgtated
+јqare metCЂ тexplicitly affirmsl—unlimitedi
+C\ЃЧ
+ж— $rф6*
+D % "by5(
+!ifД J ±, given itskCitutЊM nа ІacknowledgeЪ б
+rights of fai3 orЅqequivald &asS!byp; 2 laШ1You'm@
+*
+e— ¦ћВo not
+conveyЮ8outg’so long aІ –¤ DwiseГq
+in for”Ћ X } o= ‡Ф3le нa
+of ha»BthemI*	‚s exclus•qfor youТ"Q you
+ф4fac4fXn—95 %acomply6%~*ofi|[й
+¬bmateri 	"b1
+noR»GьЕ$usґ	Ґ µ
+л ›Ydo so
+"on-sbehalf,!
+~„Cion
+Dѓtrol, onZ
+сm3J$ЅNyЃ&edщ Routsizair relТ	AshipMҐ you.
+
+  C8нhБcircumstanceЄY*"1solІAnder—O
+*Тd below.  Sub¦ЕђRed; s
+1 10есs it unnecessaryЎ B3. PЈing Users'•R±±From Anti-Cі 1venGLЏ)Noхс shall be deemed™42ffeтtechnological
+measureт $тlaw fulfilling oblign0 ’rticle
+11єge WIPO9Бtreaty adopttс 20 December 1996, or
+similar lawѓs rУ3ingємД sVт 2youЇyћ‰,ВQwaiveн ±legal powerы morbid
+g 	4 4п3b	; 3
+isy€¤exercising'›RЕ*o†Г 1andЗ ЃdisclaimК i(іЙ9Ц
+Э­g
+Amean~aenforcоfagainsh	1's
+њDrЃ22hirfCies'M±N
+µ
+Nw.
+
+  4.ёЎVerbatim C! фГ%Щ  )'s"]
+)"!itВ
+Їany medium§bnspicu•Vand
+aC"ly5Ўsh on eachын
+Б;
+keep intac4c<цµБand any
+non-ЇDssiv6#adАTaccor‹ѓ7ХоdЃ Жrabsence<yI;њg=7ll
+?!aщ ? ¶ $loОН	
+ЙBhargЌіprice or no 7forWЫ,hw"#ay  Ґsupport orµ # peo:"ѓ 5m2Modи7# VZ&* va:каs#,thMТto
+produce itч€!thр mГіЃ#ae
+termЈ^4І‚also meeZ’(esЙі:
+
+    a) Tн2car›TminenљsY•o+G "it‘	"вa relevant datq?  bl "Ree '
+dN
+, ,G 7	$iset %inDA4 toB "є"'B  c),5ustД
+#BntirqgЉҐ #thй Qto anЙ*rwho com‡ro posse_#Ц Ў A dwill t• ,ђл'! 7F "ad "alј	,2%@fШF)aparts,C ‘regardlesІг$yэ
+ѓpackagedё 1giv^@ еС1cenЊw №3wayґўE ўinvalidateћU 
+(І have separРdзq  d) Ifгqwork haЉУ
+k"s,°>aisplayЉ y5; h`g Ѕj G љZ
+j f ґC Ж „щ
+мЗЃA compilл	
+g
+цz:с and independent—#s,ў‡ыReir n'Qexten["S	йа
+Йscombineг"itЧao‘m a large§
+Ѓgram,
+inн’n a volumЦ¶ storage orџ&5ioncФn
+"aggregate"¦#э 'ts¦Ѓ
+сqnot
+useЏ›	4the–%*or9	Іѓ!'sfўs
+beyond wШ‘ЙQ.  InЅї¦%n Т 1 dovQt cauc“"to; ц
+зіI <'6.y
+CNon-OBFormЎD¶\)inДCforml#thп
+1s 4z5	f яthe
+machine-readabl‘m ж PnEY7waySэ /
+Mс, or embodied inС‚hysical t (xW" 	3¤В), accompani`1theC л"ix®Qa dur^ Q < ”customari№5for1.‘'пЫф ja¶ awritteAer, ц± for at leaЖ‘ree years3# sC «
+#M
+p&bre
+Y)atїQmodel0(Ж»jК‘+Њ Q¦Ы вќQR}ћ„ ц ,pєЖ1mor6QreasoG!… cost ofв*lyФi–АJ4(2)A"to0ь юTrom ab!‚#noѓРcР*! cЃ
+»ю‚	ђй)v¶	zдalternative ise4)Ѓoccasion1“ЂЃncommerc*ЌF Donlyж1dї 	a=HG " b!
+#6b)d)bЋ
+Г{,ІaљЁј    place (ґ/ђ)Л ‹¦R ПЈ с
+ є$ayo# } $at«tfurther©(	ЕB30xaWE'!"Џ Љ bЛ	-isј,; ы ъ'Я„ifferentч(52youѕ&О!y)D Ьнsѓ*ъЂ"qaintainG Gcleaes nextQrЃsaying wо#ato finІеI.  Rg	ЬUhosts)YЭҐ	Bensu№†ѓ&sі1neeЬЃo satisfґ}mї,З e6uВpeer-to-peerя%л&onbH byou in0·!peU"<?:anduC љ	ЙA
+­
+"benf5gђlпc6¬Ј	'9A"qble por…q 1, wД"isxAded
+>Б	}&y,№bЙdNЏҐ‘A "User P±Et" iэ)ў‚ "consumeTduct"йGЃany
+tangл0bpersonд	p
+#isj#h	- ф, family,
+or householdЅsт#Y1ed ­	l¶	ЃincorporИ
+±
+into a dweО%“ determinxJaР} н ц,
+doubtful casesvQresol<an favo·(Т
+3ages B%
+¦џ*byc%ruser, "“$)	X-A
+typBёFmmonG$qat clasR
+j ,—
+EtatuЬ0ћ t
+;( Xway iq#+ T
+actu¦ ЈRexpec 7Пp
+qto use,§™ D.  Aw
+оwє ­D 1asubstav$
+ў, industri+Enon-a Ї !un¬suses reЇ(‚Nтx"ca7<o€ E""Ij4|! IЄ $c8%Љтthods,
+procedures, “5!izA B key_Ќ qd&Ѓ Edexecut•+.‚<	Ў efrom
+aъ‡51 ofщ^i.  Theџ ±must
+sufficбgњuntinuedЂ@‹*ј 9
+&‘in no casі)!vew!o”З.4ithЫ!beз
+іhas been ma%*I&Cґ0 
+жBwithЧГ&fN;ы^й	мє5aas
+par)a!acE	ЉsMх3p Ч"Z--'thЫ	`%ўpetuity orр
+Bjterm (HЯV ў sK
+sacterizq,/e
++¬#edHqUK(beм1
+bydR.  Bu24лкЈapply
+if n{qyou norѓ
+q retainG	q abilit3•'E”u=nќ 	r((fo&pAhas
+xQ Q ROM)ET–D	H
+ы ОGKe a
+C fO ж
+!Eice,>kbupdate!ь#7њrx]	XL '	ОiU 
+B.  AS
+Tto a
+Рпўdenied whe„4ceitselfI!Пbdverse
+%"ec3 !в,9“or violatЗQrulesI ‘protocols.
+V'RacrosFІ а
+,§иR#,Рш=‘in a form:Sat isМ
+4ly
+зC"edq@®
+&an`,
+яьXc in
+°Rform)Ѕ »~5 no,8qpasswor§!keq
+unpacky1reaP+Фpд1F7. A$TeQ" p’'"О4terМ>4sup0-
+Я
+8bЭ%Bing R182romхQr morш7itss/.
+… m8areW"?пЎshall
+be t:td as thґdy wereХЛйё qi"xtій!eyDvali\€ 2law…aWA
+&ъ!toё
+
+ґ ,Я ў‚CusedфЃtely
+undм3!os!miјc:± 
+ЄDagovernE
+й ='ЃGВ e1Whe~e" ac!of
+ v!2orkBmay з1r oяS
+remo/#g  sBcopyз"ro"џof
+it.  (&=6$to·“ their ow‡ Сal in certainхsо2you†t))Д2mayj
+ї %on,<2
+	%
+x'?cor canр"h›ъс.
+
+  Notwithstanй›&Цёш^јq you
+adи
+Ў $umay (if9H–” ўholders of:A\ ))
+­%^P qDisclai–.}A"orфding liE”П,:S  г!15
+"16~„ B; or| Eb) Ro:·"rvµ"ofv¦¬$x#"orГ 1uth4RtribuьHгLAмё'E NС6s”{*b contam&itѕ Gc) Pф&5mis|
+Е ®ArigiУ 	’ ,ї j@$э­на
+лµB¬"1way69ЄФ‰ $al
+Л Dd) Lн!th+5ityДr of nam	 ”licensorsЛ №І M#ц*i re) DeclM"toQ. n#s u‚rademarkИ(bof som¦Rtrade† ,/ sБ
+
+ sx fjeindemn4,
+К 3andQЗ !at }yы$	# (f;ЗI 1it)Wr~r assump»Џ quАQH "an(<Ю]3$X ЛЈly impose ^#tДЛц3All¬Е&—ю!ar°$1sidћ"›
+*Aons"ь Љwmeaning72 10Ьg%Ю(dJх§ §tН$XЎ
+і-тa>#SХЙ  whЬBtermА aH$§
+рUains
+Q  	#q’ ђr4ing#ы	‰ Y„ ъ c
+D-at® ёз&Р	¶ у does
+not surviv±#А Q¤Ї з
+'$р 
+J1lack6ЧБ&Ц1fil…IU
+№7
+p%os? &orOQindicR
+н	)д8	#,в2ssiЂ
+R,Q	3c:s;•с$t	(e© 7 aѓeN;Iabov&'s° #y H1way›A8. TYБ ш!!no1Qpagatј Ё
+	"z „ Ѓpressly
+	d'L;UK’y attempth1wismn 
+n Еa void,^0'
+f53ateј\
+‡" (–п#nyюE	5e8-©
+paragraph·!1).u8fу*3easуP›	X
+#r
+ОіaјWiculaT1
+ $#inф2(a)ge‘and until%H
+	V5Rnd
+fiЈE
+Щ3u1(b)ИaG@2, i°] 
+¤ Afailтanotify„xby someДсmeans
+prior to 60 dЦ!ft•
+ae cessMuQMoreoл9С2l[E
+EФ 
+У wК iЩ
+&e
+ЫМ ,іБЃhe firstЁ\FhaveЭ1notO-f#45—"an 
+)й Uthat
+‚Ї °‰eV `3`
+Ddreceip2m ! oе
+dк "seр»QD theим’C2whoЧ)| vYJW4a Q2you	Оvј тQhave ¦| d4КлAќ)Aqualo"D6new "foЗUsame
+ы		ѕ,1 104!9.юЈptance NotчeсlHaving/1a}‰5јLcB ))®© aor
+run*4O	sRcilla7.Т
+•
+ОDring†a30Tnsequj0
+— ДAlikeе
+eа !an‡LQ
+noth
+	иARgrant’_,Bt.vў
+o1  T7 $s qGiZ1 doк… E Јrefore, byФµ r‡ hing a
+} qX±_ *ш'toп+T10. Aъаq дf Downstream R9Cs.
+
+ќJzЅ',¤q
+Д<Ёsб
+–й#al$!orТVS run,d4Џ.csubjec`"ЬЅSCsponµF&orч4q compli6Ъ"rd?!esr	4|Gx"entity 7 
+ґиv"fe	 9_-(n
+“Kѓ	И!lyл'Qassetй4one$ QdividD  AmergЙ] sа;Їё-И,'>an Ю з.Cpartл
+1at
+а ю5 wh®л?>¦2ЎsТ,5eveёsШ, \±arty's predF9вђ*aest haNacould
+ЉA< …revious r	‚, plus aг	:-© — Ї” A, if5  !ha:3Ret itX·Seffori7p?anyC
+Йђ8g8® 
+Ю#"ш>e)F¬Y!ay±Ђ бe fee, royalty“Z$fH Њ € ЎҐf3may#AІitiate liti°
+oq cross-vбRunter хСlawsuit) alle¬©- ±я,–2, s6#,Ъ(rfor
+sal‹!imЮ$ц\щ$=Eu11. Pat&1A "cibutor;„	T1ize0А“
+ЗЈ„ °–.F ais basXTхJDthusгdИlO1§ )'s¶ 
+"* Aesse—" 
+w¦+al B
+own«oP *Q, whes"alаTaacquir; Ґ
+hereafter ,„=O%beЈт=cmanner_$ttl¤,of$or "Ў T,
+but
+/e“ y!asк	)	FЮч|  z%
+ъ@BС 1def_3on,Й4ol"ќ ‰:_hT$ sъ>•6# a5Ј consistenТэђ)kK)I¶ §…	a1L‰A¦, worldwidvT-free™ ±
+Z	?'s „R, to
+УB2useмйR for жгB and@
+y
+“	~ щ Iёbfollowh!rea&!qs, a "p1™%$nyS
+agreћ"itјb`6R denoС!d,]{Ksforce a!
+(!Tas anZ д4b4 p Bvena5:q to
+sue;ґ Бment).  To "и"" p  Э К
+^Д ТaH€ о 
+Ш Н>X yђї
+!knЋqly relyJ	n« †<ќ*—1%BAvailЂ3W$
+Е0Q, fre6 Dv–
+k.GQ, thr(aS	UJє!-щEf !ly+
+!ss¬*k$,
+G !eia5(1)!6/e щKҐ to be so
+в «1"rr&d‚o depriv¤BselfП „e benefi*ёУ%!is	
+ЛсUor (3b ї0’
+’V =, [e–fѕ 
+Ъls.  "K-"Of:
+ўќGщ,ЇЮ p }	'9theц
+ЯфrЂ	ёд'%·њ
+5#: ¦3 on™±re identifi±Пs*'QuntryК й ЃBlievddBvali.ўIf, pursuaФ%ЛCconnн\€a singleU
+A or
+XK!Х	Чј
+Tprocul
+Bveyah,Q§3and@‚2 toCspartiesЅЄ
+Yу#iz Ѓm to useфД
+а#ҐD‰specific*
+§ tЦ%†¤ C
+youї *ise#dу&llc 
+Ў"anЛ
+4 on±
+Au ± is "discriSory" if#Oawithin
+
+AscopM>$.юu3Х5is
+†G• ‘&7on-* 	ґ®ѕ•4re
+dS†+ѓЈ° +i:"ar$an€m	aп№*1is
+Bse busin$?г9(sftware,гєЌ
+qke paymи$ц$і)П&b=TYКШ 1ingљLnp \ 5Ќґ"YЁyJЩґ7„4zyou, a ?с1(a)л#Лz 	;<_Lp!Qyou (`/ DmadeЮ3ose )_r(b) priу:
+“`&‘?ґ/»=acompil™j
+>
+ь Iqyou entЃ•16"і	
+I`u2wasк6ed,vФ28 March 2007`$и† )Ѓ shall b™
+Estruдѕ«#1
+anаEliedЂ <2defя%toD
+т¶ Amay
+	#'beт!to'Т‹'УhNЈ12. No SurБ`aof Oth"KqFreedomй IЗd:`C are“ Ad oni ( Іby court orП.­ )Кщ CdictЖc ZR•yШ
+a
+excusЩlj< ‰syou canЅM
+г!so	)тo satisfy simultane“HШљKA;ЦЉ!d&„ertinentф6pZ_
+rя2ў it at allYЃ exampleѕ2you[Б$erЯЎ P м
+tllect a>.Щi 4ingHo‹"wh>у№ЙА ¬)Їn7DbothJ  1andь	&»bҐbrefraiъ$re¤& ў
+
+  13. Usм4ЇGNU Afferoлo©	(Q
+V(q to linџ-#Cс	|V	кWd *1verЯ
+3Yї є¤	
+u ?HТЮ1sulЪ,‰T€5ill3
+‚BFpartC7cah2the®$alI*Ѓќ$,
+x!13$rcerningpгv
+c
+E 3pplc" a^50В4. Revised V}	ѓ<ITЊpж!“publish rN ¤and/or new|xХЌh"imёЄime.  SuchH "wiў-ЇO‘in spirit6 "he{)$ntz Э3mayE(с in detail to
+addressc ХhґCncerѕ,џ‚is given=qtinguisк" bnumber[Cthe
+жIEat aC,1 ^',!
+Pр—# "Ч6lat;"ш
+°oE&¦§J-9 ofд7andK/K#¬%atў 
+д X9¶'‚ 
+	t8
+@uѕdF6Dfy aГ хrт Ѓmay choouyE Fever  
+     $
+
+Бў ™ `Буproxy can decideіj,Tы
+Rcan bd[,] [ #'sM #m0f.#ptK'у!¤п5thaсGLСќ>sиФ_dQК9Y(enfsф9 no2 ГS/	Bany
+є …
+(.ЖЇ!кйoЩ9 a
+н%5..KWЕ!ty сTHERE IS NO WARRANTY FOR THE PROGRAM, TO с=EXTENT PERMITTED BY
+APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITINGQ т	COPYRIGHT
+HOLDERS AND/OR9 с PARTIES PROVIDE3 ” х "AS IS" WITHOUTЅ ф>
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE, ^ сIES OF MERCHANTABILITY AND FITNESS<Aє бCULAR
+PURPOSE.lф  ENTIRE RISK ASY5QUAI иPERFORMANCE OFф 1
+ISп Ш YOU.  SHOULD! )тE DEFECTIVE, YOU ASSUM=с
+COST OF
+ALL NECESSARY SERVICсREPAIR OR CORRECTION(216.].aљDof LO0  с
+IN NO EVENT UNLESS REQUIR& &Ч OR AGREED TOQ
+WILLѕ ,3 'NYХY WHO MODIFIE9‡CONVEYS
+ї7 ASіБABOVE, BE LI¶!TO&·FOR DAMAGESс ANY
+GENERAL, SPECIAL  rIDENTAL+ґNSEQUENTIALE Г ARISING OUTИA
+USEЃN9RTO US›Ш(–• б LOSS OF
+DATA І с TA BEING RENDERdqACCURATm вLOSSES SUSTAINЋAYOU гAIRD
+«!ESa| FAILURyq TO OPES HWITHЉуROGRAMS),
+EVEN IF SUCH· Лс Y HAS BEEN ADVIЏбCOSSIM1OF
+B Ќ^Ж17. Interpre‚S'
+Ґ2- ЅЎWх32and3G lЙЂ]
+j+#beщSlocalЅ2уeffect according…	"irW‚,
+reviewХ"4urtЄATapplyJ "awфтmost closely approximates
+an absolute waivН —all civilј _C	Е„	 a
+'or±0
+	ЫL1s aђ(	т
+’ in returKЧU  "ENи‚p ЃHow to A#П%T.Гto Your New U
+s§4youєvЎw program,yCyou szИ gи8„st
+possig8.e-	!c,VBbestДHQo achR†i 1it
+:8	eecan recYEchanЅEtо ^.ДT$&c, atta7 Ј_*Ѓ ° у ч.  It is safest
+to> mў3 stL93YЎsource filю ЉЬ}_
+Ђ		
++E;fJ C bshould*юM*"Ф2" l"2d aX»e ,2whes85 fu–Y‚ is founјb  <one@ !to–› уb's nam^уa brief idea of wNHcdoes.>ХH!py¦б (C) <year>  <C 2of Џ	!>
+, DThisg” п:I
+е$itamodifyI iяo‚Zх х"as“`I 
+dД,З¶[o#, 4(;o:)№E
+НЇsthe hopfV%нbuseful–V1butА1OUTBp
+‚; withou`ЌТэhw5z	/ory	 y	qSee the8gfb='&Y  YouШ`dДY x љ4?ґ.°†not, seeWѓцwww.gnu.org/licenses/>.
+
+Also add iЧER on h=qcontact’Сby electronic©’paper mai‹q*‹ ‰t:2ln,зт output a short
+€C likrwhen ites)XJ vA"e:T<x >‹
+‰4com*ЁABSOLUTELYЛ;џРс  type `show w'.—ЩС,-cRwelcoќ	Е!itB O=s;o (c'‰ с .
+
+The hypothetDI‡p  „ 
+ $c'Ѓј !thТ?Цropriate
+partGсA  Of…-Ї5{ “
+might be22ent@Ra GUIЗQface,^ІumІ "about box‚&4qalso ge“Тr employer (iЅ"asUс
+grammer) or school,
+if anбR signLєе	ЫH!, cEe2Try.
+FЮ9BthisсCЈ	4andWД!PL¦
+¦<lД0(it/Le‚Ў
+но#etп/CgramN,, б is a subrouti+QbraryІ
+ ўonsider itмЎ†+Љ 1lin
+xr -Qtions­Ф] ГХ"isiw	Qto doЪ%Ч¤GNU LesserЁ
+лrinstead§		Џ2Butt3Я, please read2сwhy-not-lgpl.html>.
+--]]m4  --[[ВсВ© 2025 РќРёРєРёС‚Р° РњРёС…Р°Р№Р»РѕРІ (FGOT)1 ЉР­С‚РѕС‚JлЎвЂ” СЃРІРѕIлґnлж, Р»РёС†РµРЅР·%‹"РЅ  r РїРѕРґ,СPLv3 (РёР»Рё F R»РµРµ$ т
+·РґРЅРµР№ РІРµСЂСЃРёРµР№)КЃРџРѕРґСЂ ЅXђб‚Рё СЃРјРѕС‚СЂЩ sµ РІ С„Ш гµ В«Workspace.?Љ"В»$1
+
+
+#ц
+Р’Р°С€ РїР»РµР№СЃмђсµРЅ Р±С‹С‚СЊ РѕРїСѓР±Р»Hз Qј (С…‡ Џ0 д РІ Р·Р°РєСЂС‹r‹ґ¶ бСѓРїРµ), Р° С‚‹у¶Рµ СЃ РІРєР»СЋС‡С‘Aпј API ServicesI‘с.
+
+РЎРєСЂРёРїС‚, РѕС‚J±‡Р°СЋС‰РёР№• ‘ РѕР±СѓС‡ґQёРµ "Ґ»WеРІСЏР·РЅРѕР№" ђ‘q»Рё, РєV vѕСЂР°СЏI r°РµС‚СЃ qїСЂРµРґ<’Џ:qєСЃРёС‡aµ СЃРѕ€ ‰† BСЏ.
+x јЃ БіРѕ СѓСЃС‚Р°V 2ІС€z #1СЏ,nљ 1ѕР№D AС‚ "°1ёР№C JІР°"дн¦  ¦сЊ. РќРѕ Р±Р°Р·Р° РґР»СЏ СЌ/ сіРѕ РµСЃС‚СЊ.
+РћР±71°С‚щ ЊЌ‡–‘°Р№С‚Рµ O_,8 '“RѓСЃРєE‰™aРѕРј.
+ч"
+
+z“DataStore8¤ = game:Ge€’,("$ $")> тMLP_SAVE_KEY = "TextClassifier_v1" --Рљ©r РІРЅСѓЃ]!С‹}ЧV ћЃР№СЂРѕСЃiЏ±ё (РєР»Р°СЃ&„bЃ°С†РёСЏ SєГ#°,Ђћ)ъ ќEMBEDDINGВ ¬EmbeddingsВ 
+М RІР°С€‘4Ч "ђ ‘>С‡РёСЃР»Z±Р (СЌРјР±џґРёРЅРіРёћ  СIZE = 16 --Р aVјРµСЂ~<QЃРµР»аЋ ь"РёћЬ "ЕВlearningRate;¶­1 --РЎРёР»ЃСЏ РЅР° …с¶РґСѓСЋ СЌРїРѕС…Сѓ (•Ѓш 1јС‹!С‚AЃ№ С‚СѓС‚ФqС‚). Р”,ђ¶1…РѕиЎ€Рѕ СЂР°Р±B°8РІ .уР°С… 0.01-0.0001ФТepochs = 5000{ѕu‡ЂEРІРѕ®  —ayers = {сIZE, 512, 128, 2} -- Рџ4q Р°СЂС…µ1µРєЫ DЂС‹ §Ю 3ІР°A‹С… 1ѕСЏ^ 2 Рё` OєѕёСѕ. ~65,000 РїФ1°Рј=QЂРѕРІИЃ’вЅРѕ РёР·РјРµРЅJ,Ё4І  M:
+--й д 2 РћЊ	· EР№ (
+°Ъ3Р№)М ‘Р№ СЃ 128Щ­aРЅР°Рј1ѕРєжoѕ ~2,5О –  т2048, 768, 256, 64‰1 Р§1‹СЂ
+;NС‹С…© $С…© 3СЏ ІкС„РёРіРёС‰РµРјё :ѕРІ¶ _1,800€Ґ·ъRРѕРє)™‚ С‚.Рґ,¶»µ	ЊQєСЃРїСЁFРЅС‚	сС‚СЊ! РќР°РґРѕ Р±СѓРґ°n €»СЊРєРѕ щ( "–Q" (Рµt†ё СѓР¶Рµ‹]	A) Рё "СЂv  • Ія1Рё г‘ЃР»РµРґРЅ#X 1ѕР№у  ЩAРёР·Cёz H B¶Рµ,Юјб ‡д‚i™ґeљ°_bѕРј Рёd:! ( ъa ~325 uўЂРѕС‡РєРµ)И	U --- 	¤ Model (РІ- $Рµ“
+)+ #]]_2funЏ!тtokenizeText(text)
+	 M1}
+	ІЛhў сtext:gmatch(".") doљџbkens[# q + 1] =4 t:lower(ХњSretury Qs
+end+њ
+Е 
+с ·Р°РіСЂСѓР·РєР°кQїРѕР»ђµ~/µ ‡ 5ѕРІ‰
+'U= {}
+w  «.__index =- %
+
+12 6newД~/ы= setmetatable({},M т)
+	self.vocabularyЊ  1SizБ* eє ЏDBselfBџ V:load  d#	& =/	E:Get %("з ¤Storage")
+Яsuccess, dataAПдp §:GetAsync(™n	))Д\ (_ nthen
+	BdataBsSize
+
+	¶Drows Erows 5col 6col ]DР [  ~  Їr 211
+	'bi = 1,‰ Ѕ ? 4[i]B 1 j1 Ў 1 2  f[j] = E QData[{ a]
+				 2 =  ызBend
+ Е 
+t‚ і #ъ # D_key“ я
+decodedKey = string.char(: T[i])
+Н V [E ]Є ¦_values[i]є Wprint“„s loaded.gfully"xс
+true
+	else
+		warn("FailedЧ'7oadI8 !fa3 ?endV5get 5Q-- Р”,
+"Рѕy¬С
+ф
+ЃРёРјРІРѕР»Р°
+	if #text == 1жeГ+= %[xL]U¦3notтB о љ”format("C6Yб '%s' not founеz1",  ґБ3nil‡ – €„ЙѓBєРё:Р"1ЅСЏ«­ ‚ё РІСЃРµ]
+04ѕРІ}_=	 №5avgћ1 = ‡!.c0пЃvalidCha@10
+
+!_,В± in ipairs(w sф°CcharЁУ¤7 Dл U	† џ;2IZEv(		о Z +оW	у 
+ >% Ц(if D== 0І]o"No. ;facterspфH'%s'onr Q-- РќF
+QјР°Р»љ /Ў оr „ = g	!Рљ
+6µС†Рr	[	В
+-- Р¤СѓРЅРє¬ І Р°РєС‚РёРІї "РёX!РіNTёРґР° ДЎsigmoid(x){bx < -2s § !0 џ{if x >  1 + с1 / (1 + math.exp(-x))Ь ± QџСЂРѕaІєЅl
+Ґ ,С‹8
+¤ ЎDerivative® s §x * (1 - xh љм3ЃСЃє	!	y	#w sNeuralN,.		 №		 [
+№ђ!Сѓђ6ѕСЂТ		2 R.new(HЧ		9 )юШD»‡ІЛ	[ # =¬ AnumLt C = ## D- 1 ѕ »EµщW RІРµСЃ§<1РЅЎё>- ѕ; @1°Р№ў¤јРё Р·РЅР°UcСЏРјРё¦ dweight„
+†Д Е 2 4	qcurrentф м
+0 ы ¦&?nex' C+1]
+ГE	Y Њ P	Ќ M	ђ ak= 
+l : ;  R[k] =Nцrandom() * 0.2 - 0.1aЈРUЎР»РѕM1act:/onQ „ / N\ u
+ајAѕРµ 	ЃAѕДµРЅРёРµ	д:forward(inputґ‡ б
+ ЁџeOВ - РІС…РѕРґ
+2lkФ 2с%l]E
+Ї
+Bl
+/ ZЭФ 3l+10~
+ B C 	е ^ +Ь		 b][i] * Є"l]­So 
+7w )Л	
+7	Љ #@ Љ]Ъq’РѕР·РІG‰6R РІС‹Щ#РЅ9Я№Y1ћР±3 ‚" ‡%Ebackк;‰(target,кЁAerroCІ%Т 7	* Iъ‚С€РёР±РєЌ
+д ЗT»РѕСЏЏ
+oЭИI:n ф‡ X[8 ] 
+ Є э R[i] -(·4 лЩ BCРІР»Ѓ(2ЃР°Ґ l±–r, 1, -1љ ќE^Ъї‚ѓdelta = ЦД*Ґ„7- х]}
+ +†# *€ Д	e 1][iЄµ
+6l >у
+	ЌнD = (З zor 0) +\ ‹ n 
+ И 
+,…яRtrainэ,z
+w,¤)@
+ Э s8ќJ
+Zxй2	--tГEpoch %d/%d"Ѓ  "s)aZЎРѕС…ЬѕOsaveL">MLPFДtІ# I—W€	П' 6	
+OW
+; >
+& >Щ
+[
+vF 4[1]%	e	
+џбС RData,(· }	¬в 
+ Ч©Dsave[1
+		7sЂ. C,
+		j 3 = 
+ ~Data
+	}м?errлдSд¶,‹ ‡иФa"MLP mД?savа ТUsave < !:"® o ц—Bд >&т®8#TЫ J2кs = dataшpиґ! -я[Їy
+,[  # с=J )
+юA йљК
+ҐцЫ х­Г ( +­7 ђ “ Й= /
+P ·	) +1Р Ш[Ч
+iRЃА	Љ	тЛ» 6 Њѓ 
+§€.¶‡	у-- Example usage0Rmain(и3MP=ґ ёD{ 6	дA±8. M®1is @!edКО.г 
+ѓ­,nnё	†¦ +nnљ ШLРЅР°d џЎџ 7ing%!	{ќс= "i love you!", clas¤§1, 0}}, --Ь!РІMјYёT‡С‚Рѕ)"єRѕРёС‚R'Ђ|µ„1 ^ 	‡ ­,Ш2‰ ’¶(TЂРѕРµ=#R»Рѕ 0аQ!1ЅС‚џz —/‹ с	µ РєР°Рє "Р±РµР·РѕРїР°СЃ6№" °$
+Є 3i hЧ_	1O0, 11G^ 	‡ 1nnoy me‰ 111-
+п'
+/µ			
+			--Р”l* aєРёРј ”"1ЂР°sјЊ 1їСЂ‡1ёСЃдµ°)
+( Q(Р¶Рµњ	Љ'б‚С‹СЃСЏС‡Рё/Рј%’»РёРѕРЅС‹Z Є!b QІ, Сѓ 1‡Рёd	­ 4ѕР»GЅ‘л'
+Э$2їСЂ†!¶!С‡у'*3ЂРѕZ&ъ-ёьl&4), K r*O$hѕЄ%Ѕѓ a$_$x’V!С‘Ѕљ$1 Р·†"Ѓ™!r Р±С‹Р»”q±РѕР»СЊј€ ‚ЯRЊХaСЂСЏРґЎ Ѓ~70%. РҐ3:ѕС€у""РІ;№S‚ 80-90%+Х)Q·Р°РІb'ёз+ф+ю'!Р·?#ЈOќ3QСЊ Р±ИAµС‚ т
+qёС‚СЊСЃьAС‹Рґ_ FAЅРµ Б ЂЁЅН("a‚, Р°  RЂРѕСЏР5 Њ*62¶РґE эѓ y,"fh+F3°Рєц -&»№+1‚
+	†qP[цqtotalLoЈµ_f
+№сїc	юb
+	кE
+$#Л: Йa			nn:]( Њ .H,51, 1jЉ (%nn&G 	* lс &JЕl Ш* "+ ®# Mw a[i])^2Ы џ: ^ a+ loss+ d 1 "	ќ2, A¤Nј Loss: %.4f±,i 1/ #MЄ)Вtask.wait()
+Ѓ 
+wЎ3end’lf"С†щЛd–&)S,Ь‚°РІС‚Рѕ-A	єж пёQ»СЊРЅ»'eЅ
+ ’zµГ)‚uQЋРґР°h1 1%)/O 20%Q ю(2-ѕw ·uy Ђг(^ё„ “›СѓС‡С€Рµq™ іРІ РґРёР°РїСЅРµ 5-20%, РµX#ё ђ)Њ> -Ђ'бёХ-ёЪ	1tesU$‡a	±hi my frien°ЏxpectedCj	¶­n/q{1, 0},ѓў ц№ё!Рѕх	} Qgo ofvw Rб	
+w  w 
+юu }уЊ €p'и†„P [DL­уText: '%s', Predicted: [%.2f, %.2f], E:
+ "",hAtextЎАeult[1] #2]! e? р" [
+ !2]офj BCoul6f'geЕ‘ for testС"Н њ X $nd*A*nn.ѓїСѓСЃРє:o
+1mlpчl
+тq4яя&1 ?ѕРІs4·
+$"СѓЮ	'Ў	 )°.ж%СЏ<DРІ "з21".
+ИВ3j!Р5.ѕSЩ AСЃСЏЭ !С…L»W
+бёСЏ "Word2Vec"ѕ; <.AїРѕ j1Ѕl‹ЅРёСЋ Рє'CРј. q0µЛ-"Рї#0` aє5.‘СЂРѕ Р»СЋµы2і, РёРЅС„С‹ Є$ѕ"4°РєCРІРє‹.a†Рµ:
+1ќ’єСЂРёРїС‚Э‘ёСЃРІР°Рё 2µС‚РS9јСѓБ  9. H#t2‡Ђ РёР· ""4DIZE"*QµР» (б074
+«, 16-Рё)
+2© ёџъ
+)СЃ¤ Ћ" Яєx#іЊ0Q±СЉРµq­ЅСЏСЏ РёС…t"ў. РђРЅС‚Рёu	ҐсС‹ (NEGATIVE_SAMPLES)ц?і:› ·j	Нf „µС‰С‘ Р»	Ѓ
+3. РћРєА0!Рє	SP±g	]1у3ѕРµ¤1К‹С‡РЅРѕ, 4-7W	©і9-15)
+4. Р•]	№пWёр
+Р ­јРєРё 9-15a ‰ (С‡Р°С‰Ш	)‡ѕв
+!Р±t9° -= JС‹ "™)"СЋЯ#",Ќ
+ССЏСЃСЊ СЃРјС‹Ї y77.z7s-- Р“Рёџ1Л7UµС‚СЂs&
+ј@6Lє2ѕСЂІПµХ D
+"СЌKЅTй ТLEARNING_RATEa6b6a‹Р№ Р±m 9‡. ]#ѕт±» Ќ4 РІ± ґз\… 0.056ЎEPOCHS = 2ё!љ` :&б6S. Р’	W8!РјМ	рK Z2Й<(>1ІС‹ЯО§D Рё Ј&"С…Н ЦAРѕРІб 	Т3Рµ)uQBATCHё‘ = 3 --РЎ¬цKL 5·	
+«	(3ЩФµф!СЃФ¶°ЊУ   O6:|,t9a,У*:KГ Ї = 1000 --pN‹\+^48}ё–ЈѓrЪ
+ќ`ѕ°o@ ЁёЩ™”<ўРµС‚.
+--Р‘›m ’µ! РЈСЋС‚л&.RѕС‚ 2y‰5000?.. M a1000-2й7ІЫш?S РЅСѓB2°РІeК [.Ђ@a¶Рµ - » 3aСЌС„С„ѕ	‚ф>"РЅ&‹У‚ЂРµРµ
+--™@ *QСЊ РіaІ¬+l2ЅР°iL=јСѓn З@ґ%
+Е<RґС‘С‚¦ ґЁЅХ— І  Ѕа +µы ћ
+>
+"РѕҐ@K@±D%{µў‚а·П:сCONTEXT_WINDOW = 4 Шc+Я8уАI(В±4с$Р°J%9)
+
+¬h<Р  ЃҐа§Њ€33-7$н·Yё\.27qcreateRG*цMatrix(rows, colНm ЖO3rowе" І:%3col& ' Х.Д*Ш < #bЖ 1Њ1 sє Q-- Рџя>Ы1#СЊД?x
+м/y8GИ y/Wy хdotProduct(vec1, vec2я2sumЬыR#vec1ь с sum + vec1[i] *B  Д2sumБs-- Р­Рј
+ґ?ѕ§0ЏЖв#СЊ;ЦС
+ „/
+ 
+_"
+ …
+f/
+4 ")
+Юё4Њ  Q.0* X‡ийwordFrequencie ~RWordsv `-ш
+› u:buildVЦ96ЕSvocab­ z–"Building*3& ґulary...")
+6\-оѕ|+A: СЃFё:?µРјђ ns!‹ р1С… 8ЃB2‚С‹`!_,6у4Aexts«
+\Ч	 ъЋ!_,Х G BokenH х"
+…25O = (Ј )1[8	°:  C+ 1
+Еч2not_J іt ==8Ј  R\  „ zш5
+/ %‘¤/B‘ size: %dLK5"",ь+€ )%#y
+	 ђ 
+ц ‡6} QўР°Р±t†6F!РЅЅ	°еs!СЃ
+:ЧSr°РЅРёСЏ—*є"Р°	цж$С‹1neg}4STable\2ў, freq in є7И чЦХ±probabilityйqth.pow(F /uYu, 0.75)tsamples9 hfloor(R T* 1e4¬5 	)® 	Я шiСV]џn N3с(positiveIndex)
+	whileюW–%id‹:	Ћ [ r№(P%	# ")]Ўyidx ~= p \$ё	return idxИ 
+	”Џx:Я
+ё]6•r ~;яяяќ;
+c!›B
+щeupdateя64AIdx,g"ex 1labQ
+I"\44Embј[1EIdx]/ J 0  1 2 Xdot =мV 5Emb 6EmbTpTion =М2F(dot" QerrorM:Wbel -2 C±gradientSca$4 *Н/ ” G5 #Ч  ХkщB°Ь	V ,
+љ *њ¬Emb[k]
+			o 7 \ 6 <’ 6 &@rXS[k] +и 
+ђ 5    +Б 7 ‘ к-¬*A:Flog(µс + 1e-10) - (1 - , )- 1ж1 Q
+/%„РВL=$ AnumU4упсbatchCounter = 0~”q°I6aСЃС‡С‘M5ёРєвCРµР№ртB(s,У› 	i 	 1+ 1x 1ЈРІtйІп| °д#Рёы*Ђ?7'Q РћР±4
+Џ‹Q @З "
+	Mbj = i,·xmin(i +Й -б V
+]V,¬­5w>
+G
+ѓЕ#- 1B ”argetCharF ¬
+" е	ШvЈШQChar]q .6 Иn“continue Оmс
+љmax(1, k-µ)1В K, k+% q
+ ak == m!
+Qv ›{
+ъ mЕ 
+$ Ж ђ
+?Бэ ю ] 9 я ‘0џ;ёб"(DPёz&25)є ©'=ИEndex2Ґ H(	б ±')		о
+ ,Ь ќЅ
+Џ
+m#С‹ґ Rfor _э
+bЇЏn· ‘љ}		\ 5, 0= 
+)	  *if№‘% 10 == 0М,р’Processed? W %d, Р83)k t, epochрA, 42д$і с1њРё‰ #ѕ-F,—µСЂР¶РєР°Oм9
+®:‡Ґ±RБ Ћ(Ѓ°РґР°Р»
+П7ў)Ж0.001) -- 1 ‚.гСЃРµРєСѓРЅРґР°ъ
+
+$3avgў№/©
+I5'i )Q6
+ЙE
+?
+тю9'H JMa
+%)}М
+Ы=§4(  Ф A[1]
+qF ѓ	sf z9ѓ 6	oЋ Q3L/6д ЫK§Qkey,  §Q LL .enLЃbyte(keyd"Рљїq"l4 РІщ"K»Рѕ
+ю s Д ,m ), ѕ sЖ Hы DsaveЩ
+gKF,
+		i *‹1
+		К!= 3
+		 1col Ѕ ; =  ,Ђ ы¶ 
+'  э:.щ:$s,6,:ЪMe™M*‹6ъ::ы: ПQ~8D'<Э:PQя•Й\”РµРєЁ‡1»Рѕ¦¶зпїBQё…Umain(Шл>›:
+‹& щ9W 22Tex¤=І
+
+			"helloЪ€R thisAcatest",! сroblox games are fun-c2lay# ' sІl+cРјРёСЂ^#ќ*2ЃС‚. T"СѓСЂy!S"°! A--Рћ31іРёj)%2$Р№CY№ъ$“ СЂРµС€Рё}6ћ	€*· 8H. Р’8BР№С‚Л5V21ІСЃ ” ёб Нb--Р”Сѓљ!Рєщ$$!µ ;
+иcС‡РЅС‹у  #I‚ .(Ф)1ёР·іG Њ‡7Ѕ!Ѕ)qјРµР¶РґУ*aСЂРµРґJ"јЈ1 РґьOЅ~ј+)пL}
+А%¤°СЏ, С‚.Рє"ѕ"z"х2ѓ(Я
+Б»РѕРІ, Р° С„Ё
+1єС†ў1)Ї 1СЏ $µW"sTћ µЌ!"z,L_‚# РЃ|#ґЂ,$С‡j3!( °’IРјСѓ#-Л]!‚ -єЧOAР¶Рµ, [-Р,Љ1ІРјЬТ<.Ј7ХН©Г"		Г
+Щ5TЕЦ•"Startingб
+H  >  f ЁНb	-- Рў» Ц cРё
+	--E!es@¶
+Е"h", "e", "l Eo"}
+xF¶"Individual•	ѓ_)
+	--l Ц
+#--п? 2 = Ж ›јaQ(charV п3$--‚GT	3q'%s':",ґ )M )»
+©Ћ ¦ b 2DimnВ5 %dЛ7Q e %!--‹=	--—
+F6°`b>*”1Р°/ёҐ&ѕш<ЅВє¶V7ЮD%СЊћЂ&ёЕ>Њ©ІtestWord = >"›З"\nWhole wor6Xж@.ј[ /)
+Ѕ<є1AveJГ[ ВR )]rГА%µ‘`main()PROP2   ^       я1   
+   SourceAssetId  ћ' .	 °	 ђPROP   1       п1      Tags  P     PROP}   Ў       э1      UniqueId  ф_```cc[dd„M] } - A|--@ Aq@@Д 2"ДД# A+Р A	РРV AЦVVH AѓHHҐ A*ҐҐa з р aaaіaaњњњњњњ>њњPROP"           р2      AttributesSerialize    PROP          р2      Capabilities!        PROP          р2      DefinesCapabilities PROP   "       ц2   	   HistoryId  P     PROP          р
+2      Name   InstancePROP           р2   
+   SourceAssetId       PROP          р2      Tags    PROP#   !       р2      UniqueId  U-@ДРVHҐaaњPROP"           р3      AttributesSerialize    PROP          р3      Capabilities!        PROP          р3      DefinesCapabilities PROP   "       ц3   	   HistoryId  P     PROP          р3      Name	   SelectionPROP           р3   
+   SourceAssetId       PROP          р3      Tags    PROP#   !       р3      UniqueId  O-@ДРVHҐaaњPROP"           р4      AttributesSerialize    PROP          р4      Capabilities!        PROP          р4      DefinesCapabilities PROP   "       ц4   	   HistoryId  P     PROP          р4      LoadStringEnabled PROP&   $       р4      Name   ServerScriptServicePROP           р4   
+   SourceAssetId       PROP          р4      Tags    PROP#   !       р4      UniqueId  f-@ДРVHҐaaњPROP"           р5      AttributesSerialize    PROP          р5      Capabilities!        PROP          р5      DefinesCapabilities PROP   "       ц5   	   HistoryId  P     PROP           р5      Name
+   ServerStoragePROP           р5   
+   SourceAssetId       PROP          р5      Tags    PROP#   !       р5      UniqueId  g-@ДРVHҐaaњPROP"           р6      AttributesSerialize    PROP          р6      Capabilities!        PROP          р6      DefinesCapabilities PROP!          р6      HiddenServices       PROP   "       ц6   	   HistoryId  P     PROP+   )       р6      Name   ServiceVisibilityServicePROP           р6   
+   SourceAssetId       PROP          р6      Tags    PROP#   !       р6      UniqueId  j-@ДРVHҐaaњPROP"           р6      VisibleServices       PROP"           р7      AttributesSerialize    PROP          р7      Capabilities!        PROP          р7      Color3         PROP          р7      DefinesCapabilities PROP   "       ц7   	   HistoryId  P     PROP          р7      Name   ShirtPROPF   D       р57   
+   ShirtTemplate*   http://www.roblox.com/asset/?id=1749823592PROP           р7   
+   SourceAssetId       PROP          р7      Tags    PROP#   !       р7      UniqueId  `-@ДРVHҐaaњPROP"           р8      AttributesSerialize    PROP          р8      Capabilities!        PROP           р8      CelestialBodiesShownPROP          р8      DefinesCapabilities PROP   "       ц8   	   HistoryId  P     PROP          р
+8      MoonAngularSize‚`  PROP3   1       р"8   
+   MoonTextureId   rbxassetid://6444320592PROP          р8      Name   SkyPROP.   ,       р8      SkyboxBk   rbxassetid://6444884337PROP.   ,       р8      SkyboxDn   rbxassetid://6444884785PROP.   ,       р8      SkyboxFt   rbxassetid://6444884337PROP.   ,       р8      SkyboxLf   rbxassetid://6444884337PROP(   &       р8      SkyboxOrientation            PROP.   ,       р8      SkyboxRt   rbxassetid://6444884337PROP.   ,       р8      SkyboxUp   rbxassetid://6412503613PROP           р8   
+   SourceAssetId    '•NPROP          р8   	   StarCount  pPROP          р8      SunAngularSize‚`  PROP2   0       р!8      SunTextureId   rbxassetid://6196665106PROP          р8      Tags    PROP#   !       р8      UniqueId  •-@ДРVHҐaaњPROP"           р9      AttributesSerialize    PROP          р	9      C0           PROP          р	9      C1    ~      PROP          р9      Capabilities!        PROP          р9      DefinesCapabilities PROP          р9      EnabledPROP   "       ц9   	   HistoryId  P     PROP          р9      Name   SnapPROP          р9      Part0   PROP          р9      Part1   PROP           р9   
+   SourceAssetId       PROP          р9      Tags    PROP#   !       р9      UniqueId  _L-@ДРVHҐaaњPROP          р:   
+   AmbientReverb    PROP"           р:      AttributesSerialize    PROP           р:      AudioApiByDefault    PROP          р:      Capabilities!        PROP'   %       р:      CharacterSoundsUseNewApi    PROP&   $       р:      DefaultListenerLocation   PROP          р:      DefinesCapabilities PROP          р:      DistanceFactorЂЄ=pPROP          р
+:      DopplerScale   PROP   "       ц:   	   HistoryId  P     PROP(   &       р:      IsNewExpForAudioApiByDefault PROP          р:      Name   SoundServicePROP#   !       р:      RespectFilteringEnabledPROP          р
+:      RolloffScale   PROP           р:   
+   SourceAssetId       PROP          р:      Tags    PROP#   !       р:      UniqueId  -@ДРVHҐaaњPROP          р
+:      VolumetricAudio   PROP"           р;      AllowTeamChangeOnTouch PROP          р;      AnchoredPROP"           р;      AttributesSerialize    PROP          р
+;      AudioCanCollidePROP          р;   
+   BackParamA~  PROP          р;   
+   BackParamB~   PROP          р	;      BackSurface    PROP          р;      BackSurfaceInput    PROP          р
+;      BottomParamA~  PROP          р
+;      BottomParamB~   PROP          р;   
+   BottomSurface    PROP!          р;      BottomSurfaceInput    PROP          р
+;      CFrame    ~       PROP          р;   
+   CanCollidePROP          р;      CanQueryPROP          р;      CanTouchPROP          р;      Capabilities!        PROP          р;   
+   CastShadowPROP$   "       р;      CollisionGroup   DefaultPROP          р;      CollisionGroupId    PROP          р;      Color3uint8ЈўҐPROP$   "       р;      CustomPhysicalProperties PROP          р;      DefinesCapabilities PROP          р;      Duration    PROP          р;      EnableFluidForcesPROP          р;      EnabledPROP          р	;      FrontParamA~  PROP          р	;      FrontParamB~   PROP          р
+;      FrontSurface    PROP           р;      FrontSurfaceInput    PROP   "       ц;   	   HistoryId  P     PROP          р;   
+   LeftParamA~  PROP          р;   
+   LeftParamB~   PROP          р	;      LeftSurface    PROP          р;      LeftSurfaceInput    PROP          р;      Locked PROP          р;      Massless PROP          р;      Material   PROP&   &       с	;      MaterialVariantS
+ ђized    PROP           р;      Name
+   SpawnLocationPROP          р;      NeutralPROP#   !       р;      PivotOffset            PROP          р	;      Reflectance    PROP          р	;      RightParamA~  PROP          р	;      RightParamB~   PROP          р
+;      RightSurface    PROP           р;      RightSurfaceInput    PROP          р
+;      RootPriority    PROP"           р;      RotVelocity            PROP           р;   
+   SourceAssetId       PROP          р;      Tags    PROP          р;   	   TeamColor   ВPROP          р;   	   TopParamA~  PROP          р;   	   TopParamB~   PROP          р;   
+   TopSurface    PROP          р
+;      TopSurfaceInput    PROP          р
+;      Transparency    PROP#   !       р;      UniqueId  Џ-@ДРVHҐaaњPROP          р;      Velocity            PROP          р;   
+   formFactorRaw   PROP          р;      shape   PROP          р
+;      size‚Ђ     ‚Ђ  PROP"           р<      AttributesSerialize    PROP          р<      Capabilities!        PROP          р<      DefinesCapabilities PROP   "       ц<   	   HistoryId  P     PROP=   ;       р,<      MeshId(   http://www.roblox.com/asset/?id=83001675PROP          р<      MeshType   PROP          р<      Name   MeshPROP          р<      Offset            PROP          р<      Scale@  @  @  PROP           р<   
+   SourceAssetId       PROP          р<      Tags    PROP          р<   	   TextureId    PROP#   !       р<      UniqueId  _Z-@ДРVHҐaaњPROP"           р<      VertexColor         PROP"           р=      AttributesSerialize    PROP          р=      Capabilities!        PROP          р=      DefinesCapabilities PROP   "       ц=   	   HistoryId  P     PROP*   (       р=      Name   StarterCharacterScriptsPROP           р=   
+   SourceAssetId       PROP          р=      Tags    PROP#   !       р=      UniqueId  “-@ДРVHҐaaњPROP"           р>      AttributesSerialize    PROP          р>      Capabilities!        PROP          р>      DefinesCapabilities PROP   "       ц>   	   HistoryId  P     PROP          р>      Name
+   StarterGuiPROP!          р>      ResetPlayerGuiOnSpawnPROP          р>      RtlTextSupport    PROP           р>      ScreenOrientation   PROP          р
+>      ShowDevelopmentGuiPROP           р>   
+   SourceAssetId       PROP&   $       р>      StudioDefaultStyleSheet   PROPA   ?       р0>   2   StudioInsertWidgetLayerCollectorAutoLinkStyleSheet   PROP          р>      Tags    PROP#   !       р>      UniqueId  >-@ДРVHҐaaњPROP           р>      VirtualCursorMode    PROP"           р?      AttributesSerialize    PROP          р?      Capabilities!        PROP          р?      DefinesCapabilities PROP   "       ц?   	   HistoryId  P     PROP          р
+?      Name   StarterPackPROP           р?   
+   SourceAssetId       PROP          р?      Tags    PROP#   !       р?      UniqueId  =-@ДРVHҐaaњPROP!          р@      AllowCustomAnimationsPROP"           р@      AttributesSerialize    PROP          р
+@      AutoJumpEnabledPROP3   1       р"@   $   AvatarJointUpgrade_SerializedRollout    PROP$   "       р@      CameraMaxZoomDistance†   PROP$   "       р@      CameraMinZoomDistance~   PROP          р@   
+   CameraMode    PROP          р@      Capabilities!        PROP"           р@      CharacterJumpHeightЃМММPROP!          р@      CharacterJumpPower„ђ  PROP%   #       р@      CharacterMaxSlopeAngle…d  PROP!          р@      CharacterUseJumpPower PROP!          р@      CharacterWalkSpeedѓ   PROP          р@      ClassicDeathPROP          р@      DefinesCapabilities PROP%   #       р@      DevCameraOcclusionMode    PROP,   *       р@      DevComputerCameraMovementMode    PROP&   $       р@      DevComputerMovementMode    PROP)   '       р@      DevTouchCameraMovementMode    PROP#   !       р@      DevTouchMovementMode    PROP!          р@      EnableDynamicHeads    PROP!          р@      EnableMouseLockOptionPROP*   (       р@      GameSettingsAssetIDFace        PROP*   (       р@      GameSettingsAssetIDHead        PROP-   +       р@      GameSettingsAssetIDLeftArm        PROP-   +       р@      GameSettingsAssetIDLeftLeg        PROP+   )       р@      GameSettingsAssetIDPants        PROP.   ,       р@      GameSettingsAssetIDRightArm        PROP.   ,       р@      GameSettingsAssetIDRightLeg        PROP+   )       р@      GameSettingsAssetIDShirt        PROP.   ,       р@      GameSettingsAssetIDTeeShirt        PROP+   )       р@      GameSettingsAssetIDTorso        PROP!          р@      GameSettingsAvatar   PROP'   %       р@      GameSettingsR15Collision    PROP1   /       р @      GameSettingsScaleRangeBodyType      Ђ?PROP-   +       р@      GameSettingsScaleRangeHead33s?  Ђ?PROP/   -       р@      GameSettingsScaleRangeHeightfff?ff†?PROP3   1       р"@       GameSettingsScaleRangeProportion      Ђ?PROP.   ,       р@      GameSettingsScaleRangeWidth333?  Ђ?PROP$   "       р@      HealthDisplayDistance…ђ  PROP   "       ц@   	   HistoryId  P     PROP#   !       р@      LoadCharacterAppearancePROP+   )       р@      LoadCharacterLayeredClothing    PROP%   #       р@      LuaCharacterController    PROP           р@      Name
+   StarterPlayerPROP"           р@      NameDisplayDistance…ђ  PROP          р@      RagdollDeathPROP           р@   
+   SourceAssetId       PROP          р@      Tags    PROP#   !       р@      UniqueId  <-@ДРVHҐaaњPROP          р@      UserEmotesEnabledPROP"           рA      AttributesSerialize    PROP          рA      Capabilities!        PROP          рA      DefinesCapabilities PROP   "       цA   	   HistoryId  P     PROP'   %       рA      Name   StarterPlayerScriptsPROP           рA   
+   SourceAssetId       PROP          рA      Tags    PROP#   !       рA      UniqueId  ’-@ДРVHҐaaњPROP(   ¬       яB      AttributesSerialize  wP     PROP"   5      яB      Capabilities!  яP     PROP(   @       яB      DefinesCapabilities  P     PROP    R      яB   	   HistoryId  яя)P     PROPИ   ?      яB      Name   AvatarPartScaleType яG‘   cheer	 @limb	 ddance	 2
+ 3Ё@fall @idle @jump5 Plaugh	 Аpoint   run 0sit( Sswim  < Р	   toollunge  
+ 5non Pslash: Bwalk рve
+   InsertionHashPROP'   6      яB   
+   SourceAssetId  и PPROP   ќ       пB      Tags  wP     PROPѓ   Q      яB      UniqueId  4_ ` я[b”ћЁІјЖРЬжрь&-46;=?ACEGIKMOQ” - @ Д Џ /Р V H Ґ a 4њ PњњњњњPROPO   4      я
+B      Value   Classic ’  8р&   {B77AD9E8-A1EA-413F-8DBC-D6D9012DBA20}PROP"           рC      AttributesSerialize    PROP          рC      Capabilities!        PROP          рC      DefinesCapabilities PROP-   +       рC   !   EnableScriptCollabByDefaultOnLoad PROP   "       цC   	   HistoryId  P     PROP          рC      Name
+   StudioDataPROP           рC   
+   SourceAssetId       PROP          рC      Tags    PROP#   !       рC      UniqueId  :-@ДРVHҐaaњPROP"           рD      AttributesSerialize    PROP          рD      Capabilities!        PROP          рD      DefinesCapabilities PROP          рD      EnabledPROP   "       цD   	   HistoryId  P     PROP          рD   	   IntensityxG®PROP          р	D      Name   SunRaysPROP           рD   
+   SourceAssetId       PROP          рD      Spread{™™љPROP          рD      Tags    PROP#   !       рD      UniqueId  –-@ДРVHҐaaњPROP"           рE      AttributesSerialize    PROP          рE      Capabilities!        PROP          рE      DefinesCapabilities PROP   "       цE   	   HistoryId  P     PROP          рE      Name   TeamsPROP           рE   
+   SourceAssetId       PROP          рE      Tags    PROP#   !       рE      UniqueId  ‡-@ДРVHҐaaњPROP"           рF      AttributesSerialize    PROP          рF      Capabilities!        PROP          рF      DefinesCapabilities PROP   "       цF   	   HistoryId  P     PROP#   !       рF      Name   Teleport ServicePROP           рF   
+   SourceAssetId       PROP          рF      Tags    PROP#   !       рF      UniqueId  E-@ДРVHҐaaњPROP           рG      AcquisitionMethod    PROP          рG      AnchoredPROP"           рG      AttributesSerialize    PROP          р
+G      AudioCanCollidePROP          рG   
+   BackParamA~  PROP          рG   
+   BackParamB~   PROP          р	G      BackSurface    PROP          рG      BackSurfaceInput    PROP          р
+G      BottomParamA~  PROP          р
+G      BottomParamB~   PROP          рG   
+   BottomSurface   PROP!          рG      BottomSurfaceInput    PROP          р
+G      CFrame            PROP          рG   
+   CanCollidePROP          рG      CanQueryPROP          рG      CanTouchPROP          рG      Capabilities!        PROP          рG   
+   CastShadowPROP$   "       рG      CollisionGroup   DefaultPROP          рG      CollisionGroupId    PROP          рG      Color3uint8ЈўҐPROP$   "       рG      CustomPhysicalProperties PROP          рG   
+   DecorationPROP          рG      DefinesCapabilities PROP          рG      EnableFluidForcesPROP          р	G      FrontParamA~  PROP          р	G      FrontParamB~   PROP          р
+G      FrontSurface    PROP           рG      FrontSurfaceInput    PROP          р	G      GrassLength~fffPROP   "       цG   	   HistoryId  P     PROP          рG   
+   LeftParamA~  PROP          рG   
+   LeftParamB~   PROP          р	G      LeftSurface    PROP          рG      LeftSurfaceInput    PROP          рG      LockedPROP          рG      Massless PROP          рG      Material   PROP^   `       ф
+G      MaterialColorsE  р0o~>XYVЉaIПЛ§¬”lcdfЭделэя”|_ypbKJJЊ‚hяCPTT††vМТЯj†@яяюяуАЏђ‡PROP&   &       с	G      MaterialVariantS
+ ђized    PROP          р	G      Name   TerrainPROP(   &       рG      PhysicsGrid               PROP#   !       рG      PivotOffset            PROP          р	G      Reflectance    PROP          р	G      RightParamA~  PROP          р	G      RightParamB~   PROP          р
+G      RightSurface    PROP           рG      RightSurfaceInput    PROP          р
+G      RootPriority    PROP"           рG      RotVelocity            PROP          р
+G   
+   SmoothGrid   PROP           рG      SmoothVoxelsUpgraded PROP           рG   
+   SourceAssetId       PROP          рG      Tags    PROP          рG   	   TopParamA~  PROP          рG   	   TopParamB~   PROP          рG   
+   TopSurface   PROP          р
+G      TopSurfaceInput    PROP          р
+G      Transparency    PROP#   !       рG      UniqueId  Ћ-@ДРVHҐaaњPROP          рG      Velocity            PROP!          рG   
+   WaterColorzЃЃ„}QQR}qqrPROP          рG      WaterReflectance   PROP           рG      WaterTransparency}334PROP          рG   
+   WaterWaveSize|334PROP          рG      WaterWaveSpeed‚@  PROP          р
+G      size‰я  †ш  ‰я  PROP"           рH      AttributesSerialize    PROP          рH      AutoRunsPROP          рH      Capabilities!        PROP          рH      DefinesCapabilities PROP          р	H      Description    PROP           рH      ExecuteWithStudioRun PROP   "       цH   	   HistoryId  P     PROP+   )       рH      IsPhysicsEnvironmentalThrottledPROP          р	H      IsSleepAllowedPROP          р
+H      Name   TestServicePROP          р
+H      NumberOfPlayers    PROP%   #       рH      SimulateSecondsLag        PROP           рH   
+   SourceAssetId       PROP          рH      Tags    PROP%   #       рH      ThrottlePhysicsToRealtimePROP          р	H      Timeout      $@PROP#   !       рH      UniqueId  €-@ДРVHҐaaњPROP"           рI      AttributesSerialize    PROP          рI      Capabilities!        PROP$   "       рI      ChatTranslationFTUXShownPROP(   &       рI      ChatTranslationToggleEnabled PROP          р	I      ChatVersion   PROP!          рI      CreateDefaultCommandsPROP%   #       рI      CreateDefaultTextChannelsPROP          рI      DefinesCapabilities PROP$   "       рI      HasSeenDeprecationDialog PROP   "       цI   	   HistoryId  P     PROP"           рI      Name   TextChatServicePROP           рI   
+   SourceAssetId       PROP          рI      Tags    PROP#   !       рI      UniqueId  3-@ДРVHҐaaњPROP           рI      isLegacyChatDisabled PROP"           рJ      AttributesSerialize    PROP          рJ      Capabilities!        PROP          рJ      Color3            PROP          рJ      DefinesCapabilities PROP          рJ      Face   PROP   "       цJ   	   HistoryId  P     PROP          р	J      Name   TexturePROP          р
+J      OffsetStudsU    PROP          р
+J      OffsetStudsV    PROP           рJ   
+   SourceAssetId       PROP          рJ   
+   StudsPerTileU‚   PROP          рJ   
+   StudsPerTileV‚   PROP          рJ      Tags    PROP-   +       рJ      Texture   rbxassetid://6372755229PROP          р
+J      Transparency~™™љPROP#   !       рJ      UniqueId  Ќ-@ДРVHҐaaњPROP          рJ      ZIndex   PROP"           рK      AttributesSerialize    PROP          рK      Capabilities!        PROP          рK      DefinesCapabilities PROP   "       цK   	   HistoryId  P     PROP          р
+K      Name   InstancePROP           рK   
+   SourceAssetId       PROP          рK      Tags    PROP#   !       рK      UniqueId  -@ДРVHҐaaњPROP"           рL      AttributesSerialize    PROP          рL      Capabilities!        PROP          рL      DefinesCapabilities PROP   "       цL   	   HistoryId  P     PROP$   "       рL      Name   TouchInputServicePROP           рL   
+   SourceAssetId       PROP          рL      Tags    PROP#   !       рL      UniqueId  W-@ДРVHҐaaњPROP"           рM      AttributesSerialize    PROP          рM      Capabilities!        PROP          рM      DefinesCapabilities PROP   "       цM   	   HistoryId  P     PROP          рM      Name   TweenServicePROP           рM   
+   SourceAssetId       PROP          рM      Tags    PROP#   !       рM      UniqueId  1-@ДРVHҐaaњPROP"           рN      AttributesSerialize    PROP          рN      Capabilities!        PROP          рN      DefinesCapabilities PROP   "       цN   	   HistoryId  P     PROP#   !       рN      Name   UGCAvatarServicePROP           рN   
+   SourceAssetId       PROP          рN      Tags    PROP#   !       рN      UniqueId  ‰-@ДРVHҐaaњPROP"           рO      AttributesSerialize    PROP          рO      Capabilities!        PROP          рO      CornerRadius       PROP          рO      DefinesCapabilities PROP   "       цO   	   HistoryId  P     PROP          р
+O      Name   UICornerPROP           рO   
+   SourceAssetId       PROP          рO      Tags    PROP#   !       рO      UniqueId  џ-@ДРVHҐaaњPROP"           рP      AttributesSerialize    PROP          рP      Capabilities!        PROP&   :       фP      Color  &Ђ?    `Ђ?    PROP          рP      DefinesCapabilities PROP          рP      Enabled PROP   "       цP   	   HistoryId  P     PROP          рP      Name
+   UIGradientPROP          рP      Offset
+        PROP          рP      Rotation    PROP           рP   
+   SourceAssetId       PROP          рP      Tags    PROP&   1       ьP      Transparency   Ђ?        PROP#   !       рP      UniqueId  ќ-@ДРVHҐaaњPROP"           рQ      AttributesSerialize    PROP          рQ      Capabilities!        PROP          рQ      DefinesCapabilities PROP   "       цQ   	   HistoryId  P     PROP          рQ      Name	   UIPaddingPROP           рQ   
+   PaddingBottom       PROP          р
+Q      PaddingLeft       PROP          рQ      PaddingRight       PROP          рQ   
+   PaddingTop       PROP           рQ   
+   SourceAssetId       PROP          рQ      Tags    PROP#   !       рQ      UniqueId   -@ДРVHҐaaњPROP"           рR      AttributesSerialize    PROP          рR      AutomaticScaling    PROP          р	R      AvatarGestures PROP          рR      Capabilities!        PROP          рR      ControllerModels   PROP          рR      DefinesCapabilities PROP"           рR      FadeOutViewOnCollisionPROP   "       цR   	   HistoryId  P     PROP          р
+R      LaserPointer   PROP          рR      Name	   VRServicePROP           рR   
+   SourceAssetId       PROP          рR      Tags    PROP#   !       рR      UniqueId  S-@ДРVHҐaaњPROP)   8      яS      AttributesSerialize  яP     PROP#   M      яS      Capabilities!  яя!P     PROP(   c       яS      DefinesCapabilities  .P     PROP"   ‚      яS   	   HistoryId  яяяя[P     PROPҐ   T      чS      Name   OriginalPosition OSize$  =t у
+   FaceCenterAttachment VFront w   Hai) 
+ # у feckRig8 w Ч =P QД ‰њ %8 я>€d•ј Ѓ<PlSizePROP(   N      яS   
+   SourceAssetId  яЮ .PPROP   )      пS      Tags  яP     PROPЁ   Ѓ      яS      UniqueId  z_ +` я:JKOQSUWY\]^_`anprtvxz|~ѓ‡‰‹ЌЏ‘“›ќўҐ§¬Ї±¶№»АГЕКНПФЧЩЫагекнпфчщы 
+
+U 2- 3@ 3Д 31OР 3V 3H 3Ґ 3a zњ .PњњњњњPROP‘  b      рS      Value Ђ   Qgg~ рgg~}gggzz~zz~{{ 	 `|}}~|| 
+ {D  Q@   я Р Е  І„„¬ЅЅ{55„	 ¦Љ::#„„AЯЯb
+ ™C   = 3я їG Ґ;­­зccс	 ¦lЙЙДййЏЏэ
+ G Aю р!ьЬPP†  l  \‘‘†aalAA\AааЂ  њ@@t@бб„!!ўAAtАB~~} 0~~~ш `~~}{} Ґ~{}~}}}}	 @}}~z   @|zМ 2..ц а@|¶<<''¶¶¶ЕB\B Ґ!s^AЭЦЋє`	 ¦Б(Aке»Я
+  F C И Рь7ЮЮ##777оhЖh ҐЭ¬ч‘ЁУФеэ	 ¦dСGРm8`I
+ G 3zzµ Р-шшббЄ` ўђIш8!ЋЋУ 	 Р–ЛшбЁЊgPЬaў
+ ЕWPдA¤   ~  °zzzz}~zzz{ }*;	 0yyy5'vv
+  C .“   Б@jjjjТjjj™ µ3з>oo¤ЩЩ‰	 ¦777ђўў;}
+ fG  °јјјјЁ«јјј7‡ Ећ0§‘‘„нни	 Р±±±Й??µ88°°°
+ 000G D{     ЃА   P р-к¤ЁЁvwwфдЁЁveeф  дЃЃЃШaaрЃЃЃШ!!рhPROP"           рT      AttributesSerialize    PROP          рT      Capabilities!        PROP          рT      DefinesCapabilities PROP   "       цT   	   HistoryId  P     PROP&   $       рT      Name   VideoCaptureServicePROP           рT   
+   SourceAssetId       PROP          рT      Tags    PROP#   !       рT      UniqueId  #-@ДРVHҐaaњPROP"           рU      AttributesSerialize    PROP          рU      Capabilities!        PROP          рU      DefinesCapabilities PROP   "       цU   	   HistoryId  P     PROP          рU      Name   VideoServicePROP           рU   
+   SourceAssetId       PROP          рU      Tags    PROP#   !       рU      UniqueId  Ї-@ДРVHҐaaњPROP"           рV      AttributesSerialize    PROP          рV      Capabilities!        PROP          рV      DefinesCapabilities PROP   "       цV   	   HistoryId  P     PROP&   $       рV      Name   VirtualInputManagerPROP           рV   
+   SourceAssetId       PROP          рV      Tags    PROP#   !       рV      UniqueId  Љ-@ДРVHҐaaњPROP          рW   
+   AirDensityu:’¤PROP           рW      AllowThirdPartySales PROP"           рW      AttributesSerialize    PROP$   "       рW      AvatarUnificationMode    PROP          рW      Capabilities!        PROP'   %       рW      ClientAnimatorThrottling    PROP1   /       р W      CollisionGroupData    яяяяDefaultPROP          рW   
+   CurrentCamera   PROP          рW      DefinesCapabilities PROP&   $       рW      DistributedGameTime        PROP          р
+W      ExplicitAutoJointsPROP          рW      FallHeightEnabledPROP'   %       рW      FallenPartsDestroyHeight‡ф PROP          р	W      FluidForces    PROP!          рW   
+   GlobalWind            PROP          рW      Gravity†€ffPROP   "       цW   	   HistoryId  P     PROP)   '       рW      IKControlConstraintSupport    PROP          рW   
+   LevelOfDetail    PROP*   (       рW      MeshPartHeadsAndAccessories    PROP'   %       рW      ModelMeshCFrame            PROP          рW   
+   ModelMeshData    PROP$   "       рW   
+   ModelMeshSize            PROP%   #       рW      ModelStreamingBehavior    PROP!          рW      ModelStreamingMode    PROP*   (       рW      MoverConstraintRootBehavior    PROP          рW      Name	   WorkspacePROP          рW      NeedsPivotMigration PROP+   )       рW      PathfindingUseImprovedSearch    PROP#   !       рW      PhysicsImprovedSleep    PROP$   "       рW      PhysicsSteppingMethod    PROP-   +       рW      PlayerCharacterDestroyBehavior    PROP"           рW      PrimalPhysicsSolver    PROP          р	W      PrimaryPart   PROP'   %       рW      RejectCharacterDeletions    PROP*   (       рW      RenderingCacheOptimizations    PROP.   ,       рW      ReplicateInstanceDestroySetting    PROP          р	W      Retargeting    PROP$   "       рW      SandboxedInstanceMode    PROP          р	W      ScaleFactor   PROP          р
+W      SignalBehavior2   PROP           рW   
+   SourceAssetId       PROP           рW      StreamOutBehavior   PROP          рW      StreamingEnabledPROP%   #       рW      StreamingIntegrityMode   PROP!          рW      StreamingMinRadius   ЂPROP$   "       рW      StreamingTargetRadius   PROP          рW      Tags    PROP          рW      TerrainWeldsFixedPROP,   *       рW      TouchEventsUseCollisionGroups    PROP%   #       рW      TouchesUseCollisionGroups PROP#   !       рW      UniqueId   -@ДРVHҐaaњPROP$   '       фW      WorldPivotData  P   PROP(   Њ       яX      AttributesSerialize  WP     PROP  Ј      т+X   
+   CageMeshId8   https://assetdelivery.roblox.com/v1 я /?id=6403951123<  џ736484785<  x 2<  x /50<  x /48<  x /84<  x /19<  x /46<  x 8а'/80а'?201ґ  р /83h(8h'/83р )¤!р ¤!аx (1x (5x '7”"р 0!h/74< !x /87Р'1°(5Р(0ґ !р 2,!ђ736484745PROP%         яX   
+   CageOrigin   я8P     PROP!   х       яX      Capabilities!  ЗP     PROP(   8       яX      DefinesCapabilities  P     PROP  Ц      р!X   
+   HSRAssetId0   https://www.roblox.com//a$ я/?id=735009240289154 я 927329680587271h я 122063291251468i П849563968753i п18304413309950i П620135593744ќ п75816076959725ќ П006490280075;П415511657638j п340795903261065 п246701038022445 Я09386951641675 `183761
+?187Dп11542096763543Ып89286073270281У Ђ32848834Ј /66i П477232490652i Я1405134130351i П788145026277бп78577701132259ќ Я28367143344145 Я09968556090715 Я1059460255351­0389С o556323xП969721129242@0846Њ_61544j П005200515411Ф а40493801843674PROP   Ђ       яX      HSRData  WP     PROP"   †       яX   
+   HSRMeshIdData  WP     PROP   Т      яX   	   HistoryId  яЁP     PROP'   Ѓ      яX      ImportOrigin   я8P     PROP'   •      яX      Name
+   WrapTarget яcPargetPROP'   ц       яX   
+   SourceAssetId  ° PPROP$   ‚       яX   	   Stiffness~  М ;P М М PROP   }       пX      Tags  WP     PROP(   Њ       яX      TemporaryCageMeshId  WP     PROPz   С      яX      UniqueId  $_ я````ЂЃ•–џ ©ЄіґЅѕЗИСТЭЮзистэю - @ Д o /Р V H Ґ a $њ PњњњњњPRNT  %      O d  яяяН#Я	  +г
+ A Q
++0
+ 3
+  % )/6  $%,
+ /
+ "> />   	±  # ™ )	  !  р mt"9<K  @
+ " о    #	   ў+ яяяд
+   
+   ?   0   9   
+   !    "   т 
+	  
+	
+    R  : %9L ‚"! )I~  Q{¦
+ $Јє
+ $·О
+ $Лв
+ $Яц
+ $у
+
+ !P > $6 $3J
+ &G^  $[v $sЉ
+ ‡: 0ЁtQ
+		 !( ш%43:7BAFEJINMRQVUZY^]bafejinmҐ 
+.  +©с R     Q   j id 2 |{  0 —	 ¦ Ґ Ђ        END     	       </roblox>
